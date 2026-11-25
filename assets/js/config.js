@@ -6,7 +6,7 @@ export const CONFIG = {
   // The site's public address, ending in a slash, e.g. 'https://your-name.github.io/fortbragg-local/'.
   // Set it with: node tools/set-site-url.mjs <address>  (that also updates the share tags, sitemap and robots.txt).
   // Empty until the site has a public address: share links then use the address it's opened from.
-  siteUrl: '',
+  siteUrl: 'https://fortbragg-ca.info/',
 
   // The place this directory covers. The data tools publish only listings in these ZIP codes.
   town: 'Fort Bragg',
