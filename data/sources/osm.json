@@ -1,0 +1,3483 @@
+{
+ "fetched": "2026-11-25T16:59:20.975Z",
+ "source": "OpenStreetMap via Overpass API",
+ "license": "ODbL 1.0, (c) OpenStreetMap contributors",
+ "elements": [
+  {
+   "id": "node/355441822",
+   "lat": 39.4413396,
+   "lon": -123.8052291,
+   "inCity": true,
+   "tags": {
+    "created_by": "Potlatch 0.10f",
+    "laundry_service": "no",
+    "name": "Lucy's",
+    "opening_hours": "Su,Mo 08:00-16:00; Tu-Sa 08:00-19:00",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "self_service": "yes",
+    "shop": "laundry"
+   }
+  },
+  {
+   "id": "node/358824629",
+   "lat": 39.4451676,
+   "lon": -123.7991822,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "33",
+    "gnis:feature_id": "1724080",
+    "name": "Evergreen United Methodist Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/358824632",
+   "lat": 39.4468341,
+   "lon": -123.8047379,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "26",
+    "gnis:feature_id": "1724081",
+    "name": "First Baptist Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/358824639",
+   "lat": 39.4465543,
+   "lon": -123.8003708,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "ele": "31",
+    "gnis:feature_id": "1724087",
+    "name": "Fort Bragg Seventh Day Adventist Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/358824641",
+   "lat": 39.4422742,
+   "lon": -123.8031224,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "ele": "26",
+    "gnis:feature_id": "1724089",
+    "name": "Grace Community Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/358824665",
+   "lat": 39.4395506,
+   "lon": -123.7985609,
+   "inCity": true,
+   "tags": {
+    "amenity": "school",
+    "ele": "36",
+    "gnis:feature_id": "1724119",
+    "name": "Our Lady of Good Counsel School"
+   }
+  },
+  {
+   "id": "node/358824669",
+   "lat": 39.4483064,
+   "lon": -123.8041081,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "ele": "27",
+    "gnis:feature_id": "1724130",
+    "name": "Saint Michael and All Angels Episcopal Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/358824686",
+   "lat": 39.4451676,
+   "lon": -123.7983488,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "35",
+    "gnis:feature_id": "1724140",
+    "name": "Trinity Lutheran Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/368171461",
+   "lat": 39.445723,
+   "lon": -123.8041824,
+   "inCity": true,
+   "tags": {
+    "addr:state": "CA",
+    "amenity": "townhall",
+    "ele": "28",
+    "gnis:feature_id": "1724083",
+    "name": "Fort Bragg City Hall",
+    "source": "USGS Geonames",
+    "townhall:type": "city"
+   }
+  },
+  {
+   "id": "node/541339787",
+   "lat": 39.4305121,
+   "lon": -123.8057927,
+   "inCity": true,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Chevron",
+    "brand:wikidata": "Q319642",
+    "compressed_air": "yes",
+    "name": "Chevron",
+    "opening_hours": "Mo-Su 05:30-22:00",
+    "self_service": "yes"
+   }
+  },
+  {
+   "id": "node/541343521",
+   "lat": 39.4302173,
+   "lon": -123.802458,
+   "inCity": true,
+   "tags": {
+    "amenity": "doctors",
+    "healthcare": "doctor",
+    "name": "Mendocino Coast Clinic",
+    "opening_hours": "Mo-Fr 07:30-18:30"
+   }
+  },
+  {
+   "id": "node/541344739",
+   "lat": 39.4459372,
+   "lon": -123.8057696,
+   "inCity": true,
+   "tags": {
+    "name": "Roundman's Smoke House",
+    "shop": "butcher"
+   }
+  },
+  {
+   "id": "node/1476839482",
+   "lat": 39.4291343,
+   "lon": -123.8061895,
+   "inCity": true,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "Arco",
+    "brand:wikidata": "Q304769",
+    "compressed_air": "yes",
+    "name": "Arco",
+    "self_service": "yes"
+   }
+  },
+  {
+   "id": "node/3085317833",
+   "lat": 39.4280091,
+   "lon": -123.809952,
+   "inCity": true,
+   "tags": {
+    "leisure": "fishing",
+    "name": "fishing wall"
+   }
+  },
+  {
+   "id": "node/3485575386",
+   "lat": 39.4500722,
+   "lon": -123.8061482,
+   "inCity": true,
+   "tags": {
+    "amenity": "cafe",
+    "name": "Cafe 1"
+   }
+  },
+  {
+   "id": "node/3787795424",
+   "lat": 39.4451095,
+   "lon": -123.8057761,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "344",
+    "addr:street": "North Main Street",
+    "books": "comic",
+    "name": "Blaqk Door",
+    "shop": "books",
+    "website": "https://www.facebook.com/BlaqkDoor"
+   }
+  },
+  {
+   "id": "node/3787795426",
+   "lat": 39.4453083,
+   "lon": -123.8057944,
+   "inCity": true,
+   "tags": {
+    "name": "North Coast Artist",
+    "shop": "art",
+    "website": "https://www.northcoastartists.org/"
+   }
+  },
+  {
+   "id": "node/3787795433",
+   "lat": 39.4452503,
+   "lon": -123.8057806,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "356",
+    "addr:street": "North Main Street",
+    "addr:unit": "B",
+    "check_date": "2023-06-20",
+    "name": "Triangle Tattoo and Museum",
+    "shop": "tattoo",
+    "website": "http://www.triangletattoo.com/"
+   }
+  },
+  {
+   "id": "node/3787795436",
+   "lat": 39.4453784,
+   "lon": -123.8057708,
+   "inCity": true,
+   "tags": {
+    "name": "Tangents",
+    "shop": "jewelry",
+    "website": "https://www.facebook.com/TangentsFortBragg"
+   }
+  },
+  {
+   "id": "node/3787856908",
+   "lat": 39.4318536,
+   "lon": -123.8058378,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "brand": "Round Table Pizza",
+    "brand:wikidata": "Q7371139",
+    "cuisine": "pizza",
+    "name": "Round Table Pizza",
+    "website": "https://www.roundtablepizza.com/rtp/store.asp?store_Num=320"
+   }
+  },
+  {
+   "id": "node/3788732124",
+   "lat": 39.4350587,
+   "lon": -123.8057322,
+   "inCity": true,
+   "tags": {
+    "amenity": "car_wash",
+    "name": "Classic Car Wash"
+   }
+  },
+  {
+   "id": "node/3788732125",
+   "lat": 39.4208314,
+   "lon": -123.8062622,
+   "inCity": true,
+   "tags": {
+    "brand": "Dollar Tree",
+    "brand:wikidata": "Q5289230",
+    "check_date": "2024-07-11",
+    "check_date:opening_hours": "2024-07-11",
+    "name": "Dollar Tree",
+    "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-21:00",
+    "shop": "variety_store",
+    "website": "https://www.dollartree.com/locations/ca/fort-bragg/5853/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "node/3788732128",
+   "lat": 39.4373263,
+   "lon": -123.8057574,
+   "inCity": true,
+   "tags": {
+    "name": "North Coast Tire",
+    "shop": "tyres",
+    "website": "http://www.northofsf.com/Mendocino_County/North_of_SF_PageTemplate/North_of_SF_NorthCoastTires.html"
+   }
+  },
+  {
+   "id": "node/3788732129",
+   "lat": 39.4215296,
+   "lon": -123.8072901,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "153",
+    "addr:street": "Boat Yard Drive",
+    "brand": "O'Reilly Auto Parts",
+    "brand:wikidata": "Q7071951",
+    "name": "O'Reilly Auto Parts",
+    "opening_hours": "Mo-Sa 07:30-21:00; Su 08:00-20:00",
+    "shop": "car_parts",
+    "website": "https://locations.oreillyauto.com/ca/fortbragg/autoparts-3633.html",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "id": "node/3788732131",
+   "lat": 39.4382902,
+   "lon": -123.8056812,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "350",
+    "addr:street": "South Main Street",
+    "name": "Paul Bunyan Thrift Shop",
+    "shop": "second_hand",
+    "website": "https://www.facebook.com/paulbunyanthriftshop"
+   }
+  },
+  {
+   "id": "node/3788732132",
+   "lat": 39.4203438,
+   "lon": -123.8066974,
+   "inCity": true,
+   "tags": {
+    "addr:postcode": "95437",
+    "amenity": "restaurant",
+    "brand": "Pizza Factory",
+    "brand:wikidata": "Q39054369",
+    "contact:facebook": "vinnysfortbragg",
+    "contact:instagram": "bearspizzafortbragg",
+    "cuisine": "pizza",
+    "internet_access": "wlan",
+    "name": "Bear's Pizza & More",
+    "opening_hours": "Mo-Th 11:00-20:30; Fr-Sa 11:00-21:00; Su 00:00-20:30",
+    "website": "https://visitfortbraggca.com/bears-pizza/"
+   }
+  },
+  {
+   "id": "node/3788735969",
+   "lat": 39.436803,
+   "lon": -123.805129,
+   "inCity": true,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "Rite Aid",
+    "brand:wikidata": "Q3433273",
+    "check_date": "2024-06-19",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Rite Aid",
+    "website": "https://www.riteaid.com/locations/ca/fort-bragg/490-south-main-street.html"
+   }
+  },
+  {
+   "id": "node/3788735970",
+   "lat": 39.4354477,
+   "lon": -123.805731,
+   "inCity": true,
+   "tags": {
+    "name": "Sand Dollar Thrift Store",
+    "shop": "antiques"
+   }
+  },
+  {
+   "id": "node/3788735971",
+   "lat": 39.4349008,
+   "lon": -123.8057747,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "576",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "amenity": "cafe",
+    "branch": "Main & Walnut",
+    "brand": "Starbucks",
+    "brand:wikidata": "Q37158",
+    "cuisine": "coffee_shop",
+    "drive_through": "yes",
+    "name": "Starbucks",
+    "official_name": "Starbucks Coffee",
+    "outdoor_seating": "yes",
+    "phone": "+1 707-964-4256",
+    "ref": "16326",
+    "takeaway": "yes",
+    "website": "https://www.starbucks.com/store-locator/store/16326/main-walnut-576-south-main-street-fort-bragg-ca-954375107-us",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "node/3788735973",
+   "lat": 39.4379904,
+   "lon": -123.8057723,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "name": "TW's Grille and Bar",
+    "website": "https://www.facebook.com/TWs-Grille-Bar-142950709086726/"
+   }
+  },
+  {
+   "id": "node/4374965687",
+   "lat": 39.4328578,
+   "lon": -123.815199,
+   "inCity": true,
+   "tags": {
+    "leisure": "recreation_ground",
+    "name": "C. R. Johnson Recreation Field"
+   }
+  },
+  {
+   "id": "node/4374968310",
+   "lat": 39.4323157,
+   "lon": -123.8119491,
+   "inCity": true,
+   "tags": {
+    "leisure": "park",
+    "name": "Noyo Headlands Park",
+    "source": "Bing"
+   }
+  },
+  {
+   "id": "node/4374968311",
+   "lat": 39.4526234,
+   "lon": -123.8109191,
+   "inCity": true,
+   "tags": {
+    "leisure": "park",
+    "name": "Noyo Headlands Park",
+    "source": "Bing"
+   }
+  },
+  {
+   "id": "node/4883793721",
+   "lat": 39.4447714,
+   "lon": -123.8058038,
+   "inCity": true,
+   "tags": {
+    "addr:street": "North Main Street",
+    "amenity": "restaurant",
+    "check_date": "2024-08-21",
+    "check_date:opening_hours": "2024-08-21",
+    "name": "Eggheads",
+    "name:en": "Eggheads",
+    "opening_hours": "07:00-14:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes"
+   }
+  },
+  {
+   "id": "node/5211517523",
+   "lat": 39.4452381,
+   "lon": -123.8057612,
+   "inCity": true,
+   "tags": {
+    "name": "Edgewater Gallery",
+    "name:eo": "Arta Galerio Edgewater",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "id": "node/6039648885",
+   "lat": 39.4424731,
+   "lon": -123.80635,
+   "inCity": true,
+   "tags": {
+    "amenity": "fire_station",
+    "name": "Fort Bragg Fire Department"
+   }
+  },
+  {
+   "id": "node/6039649285",
+   "lat": 39.4443655,
+   "lon": -123.8062752,
+   "inCity": true,
+   "tags": {
+    "name": "Fort Bragg Cyclery",
+    "opening_hours": "Mo-Sa 10:00-17:30",
+    "shop": "bicycle"
+   }
+  },
+  {
+   "id": "node/6039890787",
+   "lat": 39.420757,
+   "lon": -123.8074073,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "141",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boatyard Drive",
+    "addr:unit": "B",
+    "amenity": "fast_food",
+    "brand": "Subway",
+    "brand:wikidata": "Q244457",
+    "cuisine": "sandwich",
+    "drive_through": "no",
+    "name": "Subway",
+    "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-21:30; Sa 07:30-21:30; Su 07:30-21:00",
+    "phone": "+1 707-964-2882",
+    "takeaway": "yes",
+    "website": "https://restaurants.subway.com/united-states/ca/fort-bragg/141-boatyard-dr"
+   }
+  },
+  {
+   "id": "node/6039890788",
+   "lat": 39.4205292,
+   "lon": -123.8071923,
+   "inCity": true,
+   "tags": {
+    "name": "Oasis",
+    "shop": "massage"
+   }
+  },
+  {
+   "id": "node/6040368785",
+   "lat": 39.4520988,
+   "lon": -123.8070717,
+   "inCity": true,
+   "tags": {
+    "name": "Haywire",
+    "shop": "clothes"
+   }
+  },
+  {
+   "id": "node/6044918885",
+   "lat": 39.451465,
+   "lon": -123.8069114,
+   "inCity": true,
+   "tags": {
+    "name": "The feed store",
+    "shop": "pet"
+   }
+  },
+  {
+   "id": "node/6116230385",
+   "lat": 39.4446699,
+   "lon": -123.8057974,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "322",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "amenity": "restaurant",
+    "name": "Nit’s Cafe"
+   }
+  },
+  {
+   "id": "node/6140319396",
+   "lat": 39.4516722,
+   "lon": -123.8048528,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "190",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "East Elm Street",
+    "craft": "brewery",
+    "name": "Overtime Brewing",
+    "phone": "+1 707-962-3040",
+    "product": "beer;food",
+    "wikidata": "Q61659675"
+   }
+  },
+  {
+   "id": "node/6169439872",
+   "lat": 39.4441022,
+   "lon": -123.8057825,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "La Estrella"
+   }
+  },
+  {
+   "id": "node/6169439873",
+   "lat": 39.4449536,
+   "lon": -123.8057931,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "336",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "name": "Feet First",
+    "shop": "shoes"
+   }
+  },
+  {
+   "id": "node/6169439874",
+   "lat": 39.4434069,
+   "lon": -123.8055822,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "232",
+    "addr:street": "North Main Street",
+    "name": "Mendocino Chocolate Company",
+    "shop": "chocolate"
+   }
+  },
+  {
+   "id": "node/6169439876",
+   "lat": 39.4448992,
+   "lon": -123.805798,
+   "inCity": true,
+   "tags": {
+    "clothes": "sports",
+    "name": "Team Work",
+    "shop": "clothes"
+   }
+  },
+  {
+   "id": "node/6169439877",
+   "lat": 39.4433364,
+   "lon": -123.8062058,
+   "inCity": true,
+   "tags": {
+    "name": "Style Salon",
+    "shop": "hairdresser"
+   }
+  },
+  {
+   "id": "node/6169439878",
+   "lat": 39.4439353,
+   "lon": -123.8057536,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "250",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "addr:unit": "A",
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Taka's Japanese Grill"
+   }
+  },
+  {
+   "id": "node/6169439879",
+   "lat": 39.4447222,
+   "lon": -123.8058,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "324",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "check_date": "2023-06-19",
+    "name": "Windsong",
+    "opening_hours": "Mo-Fr,Su 10:00-15:00; Sa 10:00-17:00",
+    "second_hand": "yes",
+    "shop": "books"
+   }
+  },
+  {
+   "id": "node/6169439880",
+   "lat": 39.445011,
+   "lon": -123.8057928,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "338",
+    "addr:street": "North Main Street",
+    "name": "Noyo Center for Marine Science",
+    "tourism": "museum",
+    "website": "https://konahistorical.org/kona-coffee-living-history-farm"
+   }
+  },
+  {
+   "id": "node/6169439881",
+   "lat": 39.4441366,
+   "lon": -123.8057632,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "262",
+    "addr:street": "North Main Street",
+    "name": "It's a Shore Thing",
+    "shop": "gift"
+   }
+  },
+  {
+   "id": "node/6169439882",
+   "lat": 39.4448198,
+   "lon": -123.8058004,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "328",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "check_date": "2023-06-19",
+    "name": "Melrose",
+    "outdoor_seating": "no",
+    "phone": "+1-707-813-4203",
+    "shop": "gift"
+   }
+  },
+  {
+   "id": "node/6169439883",
+   "lat": 39.4439853,
+   "lon": -123.805758,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "250",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "amenity": "ice_cream",
+    "check_date": "2023-06-19",
+    "cuisine": "ice_cream",
+    "name": "Cowlick's Ice Cream",
+    "opening_hours": "Mo-Su 11:00-21:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "takeaway": "yes",
+    "website": "https://cowlicksicecream.com/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "node/6169458991",
+   "lat": 39.4434043,
+   "lon": -123.8061875,
+   "inCity": true,
+   "tags": {
+    "amenity": "post_office",
+    "name": "North Coast Packing and Shipping"
+   }
+  },
+  {
+   "id": "node/6169458992",
+   "lat": 39.4440932,
+   "lon": -123.8061993,
+   "inCity": true,
+   "tags": {
+    "name": "The Outdoor Store",
+    "shop": "outdoor"
+   }
+  },
+  {
+   "id": "node/6169458993",
+   "lat": 39.4445916,
+   "lon": -123.8062418,
+   "inCity": true,
+   "tags": {
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "name": "Mendo Cookie Company",
+    "outdoor_seating": "yes",
+    "shop": "pastry",
+    "takeaway": "yes"
+   }
+  },
+  {
+   "id": "node/6169458994",
+   "lat": 39.444515,
+   "lon": -123.8062449,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "thai",
+    "name": "Asian Fusion"
+   }
+  },
+  {
+   "id": "node/6399728598",
+   "lat": 39.4392359,
+   "lon": -123.7943056,
+   "inCity": true,
+   "tags": {
+    "leisure": "sports_centre",
+    "name": "C. V. Starr",
+    "sport": "swimming"
+   }
+  },
+  {
+   "id": "node/6399728599",
+   "lat": 39.4394265,
+   "lon": -123.7943215,
+   "inCity": true,
+   "tags": {
+    "leisure": "fitness_centre",
+    "name": "C. V. Starr Gym"
+   }
+  },
+  {
+   "id": "node/6399728600",
+   "lat": 39.4376316,
+   "lon": -123.7960048,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "name": "Mormon Church",
+    "religion": "christian"
+   }
+  },
+  {
+   "id": "node/6766327205",
+   "lat": 39.4385235,
+   "lon": -123.7953079,
+   "inCity": true,
+   "tags": {
+    "name": "Fort Bragg Unified School District",
+    "name:etymology": "Fort Bragg",
+    "name:etymology:wikidata": "Q579180",
+    "office": "educational_institution",
+    "short_name": "FBUSD",
+    "website": "https://www.fbusd.us/",
+    "wikidata": "Q56214481",
+    "wikipedia": "en:Fort Bragg Unified School District"
+   }
+  },
+  {
+   "id": "node/7012393886",
+   "lat": 39.4460301,
+   "lon": -123.8058097,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "name": "Mayan-Fusion Restaurant"
+   }
+  },
+  {
+   "id": "node/7700546105",
+   "lat": 39.4484203,
+   "lon": -123.7979816,
+   "inCity": true,
+   "tags": {
+    "amenity": "theatre",
+    "name": "Cotton Auditorium",
+    "theatre:type": "auditorium"
+   }
+  },
+  {
+   "id": "node/8307593855",
+   "lat": 39.4441151,
+   "lon": -123.8064184,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "120",
+    "addr:street": "Redwood Avenue",
+    "amenity": "pub",
+    "cuisine": "italian_pizza",
+    "name": "Piaci Pub & Pizza",
+    "outdoor_seating": "yes"
+   }
+  },
+  {
+   "id": "node/9287073462",
+   "lat": 39.4469,
+   "lon": -123.8062321,
+   "inCity": true,
+   "tags": {
+    "name": "The brewery shop",
+    "shop": "gift"
+   }
+  },
+  {
+   "id": "node/9287103217",
+   "lat": 39.4441207,
+   "lon": -123.8055311,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "cuisine": "japanese",
+    "name": "Off the hook"
+   }
+  },
+  {
+   "id": "node/9289222461",
+   "lat": 39.4455469,
+   "lon": -123.8068971,
+   "inCity": true,
+   "tags": {
+    "name": "Skunk Train",
+    "shop": "gift",
+    "website": "https://shop.skunktrain.com/",
+    "wikimedia_commons": "Category:Skunk Train"
+   }
+  },
+  {
+   "id": "node/9505617632",
+   "lat": 39.4255109,
+   "lon": -123.8164066,
+   "inCity": true,
+   "tags": {
+    "leisure": "park",
+    "name": "Pomo Bluffs Park"
+   }
+  },
+  {
+   "id": "node/10292615419",
+   "lat": 39.4445375,
+   "lon": -123.795282,
+   "inCity": true,
+   "tags": {
+    "junction": "yes",
+    "leisure": "nature_reserve",
+    "name": "Otis R. Johnson Wilderness Park"
+   }
+  },
+  {
+   "id": "node/10990413073",
+   "lat": 39.4454019,
+   "lon": -123.805359,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "120",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "East Laurel Street",
+    "amenity": "cafe",
+    "check_date": "2023-06-19",
+    "cuisine": "coffee_shop",
+    "name": "Headlands Coffeehouse",
+    "outdoor_seating": "no",
+    "payment:cards": "no",
+    "payment:cash": "yes",
+    "payment:credit_cards": "no",
+    "payment:debit_cards": "no",
+    "website": "https://www.headlandscoffeehouse.com/"
+   }
+  },
+  {
+   "id": "node/10990413075",
+   "lat": 39.4456168,
+   "lon": -123.805588,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "109",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "East Laurel Street",
+    "check_date": "2023-06-19",
+    "name": "Lunar Tide",
+    "opening_hours": "Mo-Su 10:00-19:00",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "esoteric",
+    "website": "https://www.lunartidegifts.com/"
+   }
+  },
+  {
+   "id": "node/10990413076",
+   "lat": 39.4448012,
+   "lon": -123.804413,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "334",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2023-06-19",
+    "name": "Black Cat Antiques",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "antiques"
+   }
+  },
+  {
+   "id": "node/10990413078",
+   "lat": 39.4456179,
+   "lon": -123.805393,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "137",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "East Laurel Street",
+    "check_date": "2023-06-19",
+    "name": "The Bookstore",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "books"
+   }
+  },
+  {
+   "id": "node/10992836573",
+   "lat": 39.4449634,
+   "lon": -123.804721,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "337",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2023-06-20",
+    "name": "Music Merchant",
+    "shop": "musical_instrument"
+   }
+  },
+  {
+   "id": "node/10992857614",
+   "lat": 39.4450858,
+   "lon": -123.804417,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "344",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2023-06-20",
+    "name": "Racine's Art & Office Supplies",
+    "opening_hours": "Mo,Su off; Tu-Sa 10:30-17:30",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "art"
+   }
+  },
+  {
+   "id": "node/10992857615",
+   "lat": 39.4450743,
+   "lon": -123.804324,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "344",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2023-06-20",
+    "name": "Spunky Skunk",
+    "note": "Same shop as Racine Art Supplies",
+    "opening_hours": "Mo,Su off; Tu-Sa 10:30-17:30",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "toys"
+   }
+  },
+  {
+   "id": "node/10992857616",
+   "lat": 39.4451731,
+   "lon": -123.804705,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "349",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2023-06-20",
+    "name": "Reynolds Men's Wear & Women's",
+    "shop": "clothes"
+   }
+  },
+  {
+   "id": "node/10992857617",
+   "lat": 39.4452463,
+   "lon": -123.804437,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "350",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2023-06-20",
+    "name": "Ripple",
+    "shop": "clothes"
+   }
+  },
+  {
+   "id": "node/10993222108",
+   "lat": 39.4441105,
+   "lon": -123.8050226,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "132",
+    "addr:street": "East Redwood Avenue",
+    "amenity": "fast_food",
+    "check_date": "2023-06-20",
+    "cuisine": "donut",
+    "name": "Drop In Donut",
+    "opening_hours": "Mo,Th-Su 07:30-11:00 \"7:30 until sold out\"; Tu-We off",
+    "phone": "+1 707-962-3010",
+    "website": "https://www.dropindonut.com/"
+   }
+  },
+  {
+   "id": "node/12034821438",
+   "lat": 39.444371,
+   "lon": -123.8063961,
+   "inCity": true,
+   "tags": {
+    "addr:state": "CA",
+    "addr:street": "West Redwood Avenue",
+    "amenity": "restaurant",
+    "cuisine": "burger;seafood",
+    "name": "Dijon Seafood & Grill"
+   }
+  },
+  {
+   "id": "node/12118863294",
+   "lat": 39.4452358,
+   "lon": -123.8010163,
+   "inCity": true,
+   "tags": {
+    "leisure": "playground",
+    "name": "Wiggly Giggly Ft Bragg"
+   }
+  },
+  {
+   "id": "node/12124931285",
+   "lat": 39.4447135,
+   "lon": -123.8063331,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "319",
+    "addr:street": "North Main Street",
+    "amenity": "bank",
+    "brand": "Investors Bank",
+    "brand:wikidata": "Q15109896",
+    "check_date:opening_hours": "2024-08-21",
+    "name": "Redwood Investments",
+    "opening_hours:signed": "no"
+   }
+  },
+  {
+   "id": "node/12554893330",
+   "lat": 39.4388956,
+   "lon": -123.8055029,
+   "inCity": true,
+   "tags": {
+    "amenity": "vending_machine",
+    "brand": "AmeriGas",
+    "brand:wikidata": "Q23130318",
+    "fuel:lpg": "yes",
+    "name": "AmeriGas",
+    "phone": "+1 707-961-0805",
+    "vending": "gas",
+    "website": "https://www.amerigas.com/locations/propane-offices/california/fort-bragg/300-south-main-st"
+   }
+  },
+  {
+   "id": "node/12554939555",
+   "lat": 39.4215648,
+   "lon": -123.8063741,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "171",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "name": "Harvest Market",
+    "opening_hours": "PH,Mo-Su 06:00-22:00",
+    "operator": "Tom Honer",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+17 07 964 7000",
+    "shop": "supermarket",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "node/12554939556",
+   "lat": 39.4213408,
+   "lon": -123.8061455,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "179",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "amenity": "fast_food",
+    "brand": "Papa Murphy's",
+    "brand:wikidata": "Q7132349",
+    "cuisine": "pizza",
+    "name": "Papa Murphy's",
+    "official_name": "Papa Murphy's Take 'N' Bake Pizza",
+    "opening_hours": "11:00-20:00",
+    "phone": "+1 707-961-0777",
+    "takeaway": "only",
+    "website": "https://locations.papamurphys.com/ca/fort-bragg/179-boatyard-drive"
+   }
+  },
+  {
+   "id": "node/12554939557",
+   "lat": 39.4213014,
+   "lon": -123.8060382,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "181",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "alt_name": "Verizon Wireless",
+    "branch": "Fort Bragg",
+    "brand": "Verizon",
+    "brand:wikidata": "Q919641",
+    "name": "Verizon",
+    "opening_hours": "Mo-Fr 09:00-18:00; Sa 10:00-17:00; Su 00:00-17:00",
+    "operator": "Victra",
+    "operator:wikidata": "Q118402656",
+    "phone": "+1 707-409-3180",
+    "ref": "2343",
+    "shop": "mobile_phone",
+    "website": "https://victra.com/stores/ca-fort-bragg/"
+   }
+  },
+  {
+   "id": "node/12554939558",
+   "lat": 39.4216504,
+   "lon": -123.8068985,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "169",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "name": "Navarro River Knits",
+    "shop": "wool"
+   }
+  },
+  {
+   "id": "node/12554939560",
+   "lat": 39.4217164,
+   "lon": -123.8070355,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "165",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "name": "Music Merchant",
+    "shop": "musical_instrument"
+   }
+  },
+  {
+   "id": "node/12554939561",
+   "lat": 39.4217602,
+   "lon": -123.8071194,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "163",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "David's Restaurant & Deli"
+   }
+  },
+  {
+   "id": "node/12554939562",
+   "lat": 39.4218418,
+   "lon": -123.8072717,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "159",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boat Yard Drive",
+    "name": "Hospice Thrift Store",
+    "shop": "second_hand"
+   }
+  },
+  {
+   "id": "node/12671131405",
+   "lat": 39.42106,
+   "lon": -123.8073,
+   "inCity": true,
+   "tags": {
+    "access": "yes",
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "101",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Boatyard Drive",
+    "amenity": "charging_station",
+    "authentication:app": "yes",
+    "bicycle": "no",
+    "brand": "Tesla Supercharger",
+    "brand:en": "Tesla Supercharger",
+    "brand:website": "https://www.tesla.com/supercharger",
+    "brand:wikidata": "Q17089620",
+    "bus": "no",
+    "capacity": "12",
+    "ele": "32",
+    "fee": "yes",
+    "frequency": "0",
+    "hgv": "no",
+    "maxstay": "no",
+    "motorcar": "designated",
+    "name": "Tesla Supercharger",
+    "network": "Supercharger",
+    "network:website": "https://www.tesla.com/supercharger",
+    "network:wikidata": "Q17089620",
+    "not:brand:wikidata": "Q478214",
+    "note": "This Tesla Supercharger was edited or added by the June 2025 import from supercharge.info... if you have any questions, comments, or concerns, please reach out to the US Slack / Forum",
+    "opening_hours": "24/7",
+    "operator": "Tesla",
+    "operator:wikidata": "Q478214",
+    "operator:wikipedia": "en:Tesla, Inc.",
+    "payment:app:tesla": "yes",
+    "ref:plugshare": "321300",
+    "ref:supercharge_info": "2659",
+    "ref:tesla": "FortBraggCAsupercharger",
+    "reservation": "no",
+    "scooter": "no",
+    "socket:nacs": "12",
+    "socket:nacs:output": "250",
+    "source": "https://supercharge.info",
+    "start_date": "2021-05-22",
+    "website": "https://www.tesla.com/findus/location/supercharger/FortBraggCAsupercharger"
+   }
+  },
+  {
+   "id": "node/13256967007",
+   "lat": 39.4418247,
+   "lon": -123.7986593,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "647",
+    "addr:state": "CA",
+    "addr:street": "East Oak Street",
+    "amenity": "restaurant",
+    "cuisine": "mexican",
+    "name": "La Palapa",
+    "opening_hours": "Tu-Fr 10:00-20:00; Su 09:00-15:00; Sa 09:00-20:00",
+    "takeaway": "yes"
+   }
+  },
+  {
+   "id": "node/13372204575",
+   "lat": 39.445178,
+   "lon": -123.8057828,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "check_date": "2025-12-12",
+    "check_date:currency:XBT": "2025-12-12",
+    "contact:facebook": "https://www.facebook.com/shopsherwoodcompany",
+    "contact:instagram": "https://www.instagram.com/sherwoodcompany",
+    "currency:XBT": "yes",
+    "description": "Lifestyle Boutique",
+    "email": "shopsherwoodcompany@gmail.com",
+    "name": "Sherwood Company",
+    "opening_hours": "Mo-Sa 11:00-17:00; Su 11:00-15:00",
+    "payment:lightning": "yes",
+    "payment:lightning:operator": "square",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+1 707-962-3119",
+    "shop": "gift",
+    "website": "https://www.shopsherwoodcompany.com/"
+   }
+  },
+  {
+   "id": "node/13545123502",
+   "lat": 39.4521218,
+   "lon": -123.8053532,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "900",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "amenity": "place_of_worship",
+    "denomination": "evangelical",
+    "name": "Calvary Chapel Fort Bragg",
+    "phone": "+1707-961-6252",
+    "religion": "christian",
+    "service_times": "Su 10:00,18:30; We 19:00"
+   }
+  },
+  {
+   "id": "node/13648011210",
+   "lat": 39.4426465,
+   "lon": -123.8047368,
+   "inCity": true,
+   "tags": {
+    "amenity": "bank",
+    "name": "Community First Credit Union"
+   }
+  },
+  {
+   "id": "node/13805063661",
+   "lat": 39.4454019,
+   "lon": -123.8054173,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "116",
+    "addr:postcode": "95437-3404",
+    "addr:state": "CA",
+    "addr:street": "East Laurel Street",
+    "check_date": "2026-05-07",
+    "contact:email": "hello@fableddesigns.com",
+    "contact:instagram": "https://www.instagram.com/fabled_fortbragg/",
+    "currency:XBT": "yes",
+    "name": "Fabled",
+    "opening_hours": "Tu-Fr 10:00-17:00; Sa 11:00-16:00",
+    "payment:lightning": "yes",
+    "payment:lightning:operator": "square",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+1-707-964-6464",
+    "shop": "gift",
+    "website": "https://www.fableddesigns.com/"
+   }
+  },
+  {
+   "id": "node/14138744401",
+   "lat": 39.4222087,
+   "lon": -123.8119666,
+   "inCity": true,
+   "tags": {
+    "addr:postcode": "95437",
+    "addr:street": "Del Mar Drive",
+    "amenity": "school",
+    "contact:facebook": "trcschool.org",
+    "name": "Three Rivers Charter School",
+    "opening_hours": "Mo-Fr 08:00-16:00",
+    "website": "https://sites.google.com/trcschool.org/threeriverscharterschool"
+   }
+  },
+  {
+   "id": "node/14141370702",
+   "lat": 39.4374134,
+   "lon": -123.8042524,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "name": "D'aurelios Pizza"
+   }
+  },
+  {
+   "id": "node/14141370802",
+   "lat": 39.4209164,
+   "lon": -123.8061778,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "185,187,189",
+    "addr:street": "Boat Yard Drive",
+    "name": "Boatyard Tobacco",
+    "shop": "tobacco"
+   }
+  },
+  {
+   "id": "node/14141370803",
+   "lat": 39.4210189,
+   "lon": -123.8060905,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "185,187,189",
+    "addr:street": "Boat Yard Drive",
+    "amenity": "theatre",
+    "name": "Gloriana Studio"
+   }
+  },
+  {
+   "id": "node/14141370804",
+   "lat": 39.4379019,
+   "lon": -123.8042528,
+   "inCity": true,
+   "tags": {
+    "name": "DMV of California",
+    "office": "government"
+   }
+  },
+  {
+   "id": "node/14141370901",
+   "lat": 39.4209672,
+   "lon": -123.8061355,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "185,187,189",
+    "addr:street": "Boat Yard Drive",
+    "name": "US Cellular",
+    "shop": "mobile_phone"
+   }
+  },
+  {
+   "id": "node/14141371001",
+   "lat": 39.4202561,
+   "lon": -123.8067093,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "111",
+    "addr:street": "Boat Yard Drive",
+    "name": "Boatyard Laundromat",
+    "shop": "laundry"
+   }
+  },
+  {
+   "id": "node/14162867327",
+   "lat": 39.444623,
+   "lon": -123.8044323,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "320",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "check_date": "2026-09-08",
+    "contact:email": "annette@ttsportsnsims.com",
+    "contact:facebook": "https://www.facebook.com/p/Tee-Time-61581345472696",
+    "contact:instagram": "https://www.instagram.com/teetime_sportsnsims",
+    "currency:XBT": "yes",
+    "name": "Tee Time",
+    "opening_hours": "Tu 11:00-21:00; We-Fr 10:00-21:00; Sa-Su 09:00-21:00",
+    "payment:lightning": "yes",
+    "payment:lightning:operator": "square",
+    "payment:lightning_contactless": "no",
+    "payment:onchain": "no",
+    "phone": "+1-707-671-5376",
+    "shop": "sports",
+    "sport": "golf",
+    "website": "https://visitfortbraggca.com/tee-time"
+   }
+  },
+  {
+   "id": "node/14321956982",
+   "lat": 39.4453783,
+   "lon": -123.8044244,
+   "inCity": true,
+   "tags": {
+    "amenity": "pub",
+    "craft": "brewery",
+    "name": "Tall Guy Brewing"
+   }
+  },
+  {
+   "id": "node/14321956983",
+   "lat": 39.4441388,
+   "lon": -123.805162,
+   "inCity": true,
+   "tags": {
+    "amenity": "bar",
+    "name": "Golden West Saloon"
+   }
+  },
+  {
+   "id": "node/14344186884",
+   "lat": 39.4627982,
+   "lon": -123.806541,
+   "inCity": true,
+   "tags": {
+    "name": "Ocean View Lodge",
+    "tourism": "motel"
+   }
+  },
+  {
+   "id": "node/14344186885",
+   "lat": 39.4622669,
+   "lon": -123.806509,
+   "inCity": true,
+   "tags": {
+    "name": "Surf & Sand Lodging",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "node/14344186886",
+   "lat": 39.4605064,
+   "lon": -123.8067831,
+   "inCity": true,
+   "tags": {
+    "name": "Beachcomber Motel",
+    "tourism": "motel"
+   }
+  },
+  {
+   "id": "way/31444676",
+   "lat": 39.4431897,
+   "lon": -123.8048399,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "203",
+    "addr:postcode": "95437-9912",
+    "addr:state": "CA",
+    "addr:street": "North Franklin Street",
+    "amenity": "post_office",
+    "brand": "United States Postal Service",
+    "brand:wikidata": "Q668687",
+    "building": "yes",
+    "ele": "31",
+    "gnis:feature_id": "1724085",
+    "name": "Fort Bragg Post Office",
+    "opening_hours": "Mo-Fr 09:00-16:30",
+    "operator": "United States Postal Service",
+    "operator:short": "USPS",
+    "operator:type": "public",
+    "operator:wikidata": "Q668687",
+    "phone": "+1 707-964-2302",
+    "postal_code": "95437"
+   }
+  },
+  {
+   "id": "way/31756749",
+   "lat": 39.4436866,
+   "lon": -123.8042149,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "name": "Purity",
+    "shop": "supermarket"
+   }
+  },
+  {
+   "id": "way/130503947",
+   "lat": 39.4456804,
+   "lon": -123.8011326,
+   "inCity": true,
+   "tags": {
+    "addr:state": "CA",
+    "amenity": "library",
+    "building": "yes",
+    "ele": "31",
+    "gnis:feature_id": "1724082",
+    "name": "Fort Bragg Branch Mendocino County Library",
+    "source": "USGS Geonames"
+   }
+  },
+  {
+   "id": "way/130504084",
+   "lat": 39.4507534,
+   "lon": -123.8054464,
+   "inCity": true,
+   "tags": {
+    "amenity": "fire_station",
+    "building": "yes",
+    "name": "Cal Fire Fort Bragg Fire Station"
+   }
+  },
+  {
+   "id": "way/130504086",
+   "lat": 39.4409461,
+   "lon": -123.8052788,
+   "inCity": true,
+   "tags": {
+    "amenity": "pharmacy",
+    "brand": "CVS Pharmacy",
+    "brand:website": "https://www.cvs.com/",
+    "brand:wikidata": "Q2078880",
+    "building": "yes",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "CVS Pharmacy",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 10:00-17:00",
+    "short_name": "CVS",
+    "website": "https://www.cvs.com/store-locator/fort-bragg-ca-pharmacies/150-s-main-st-fort-bragg-ca-95437/storeid=3932"
+   }
+  },
+  {
+   "id": "way/130504088",
+   "lat": 39.4487226,
+   "lon": -123.8055435,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "632",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "building": "yes",
+    "description": "Bed and Breakfast",
+    "name": "Country Inn Bed and Breakfast",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/130504089",
+   "lat": 39.4334311,
+   "lon": -123.8054513,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "660",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "branch": "0978",
+    "brand": "Safeway",
+    "brand:wikidata": "Q1508234",
+    "building": "retail",
+    "designation": "Safeway 0978",
+    "name": "Safeway",
+    "opening_hours": "24/7",
+    "phone": "+1 707-964-4079",
+    "shop": "supermarket",
+    "website": "https://local.safeway.com/safeway/ca/fort-bragg/660-s-main-st.html",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/130504091",
+   "lat": 39.4463506,
+   "lon": -123.8055741,
+   "inCity": true,
+   "tags": {
+    "amenity": "restaurant",
+    "bar": "yes",
+    "building": "yes",
+    "cuisine": "burger;fish_and_chips",
+    "name": "North Coast Brewing Company Taproom & Grill",
+    "opening_hours": "Mo-Su 11:30-21:30",
+    "operator": "North Coast Brewing Company",
+    "operator:wikidata": "Q7054850",
+    "website": "https://northcoastbrewing.com/"
+   }
+  },
+  {
+   "id": "way/130504092",
+   "lat": 39.4511915,
+   "lon": -123.8054798,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "name": "Oceanside Inn and Suites",
+    "tourism": "motel"
+   }
+  },
+  {
+   "id": "way/130504095",
+   "lat": 39.4395457,
+   "lon": -123.8055655,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "250",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "branch": "Fort Bragg",
+    "brand": "Baymont",
+    "brand:wikidata": "Q4874634",
+    "building": "yes",
+    "building:levels": "2",
+    "internet_access": "yes",
+    "internet_access:fee": "customers",
+    "name": "Baymont Fort Bragg at Oceanview",
+    "official_name": "Baymont by Wyndham",
+    "phone": "+1 707-962-4529",
+    "ref": "56572",
+    "reservation": "yes",
+    "roof:shape": "gabled",
+    "tourism": "hotel",
+    "website": "https://www.wyndhamhotels.com/baymont/fort-bragg-california/baymont-fort-bragg/overview"
+   }
+  },
+  {
+   "id": "way/130504096",
+   "lat": 39.4285752,
+   "lon": -123.8058026,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "internet_access": "wlan",
+    "name": "Harbor Lite Lodge",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/130504118",
+   "lat": 39.4440495,
+   "lon": -123.8047361,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:country": "US",
+    "addr:housenumber": "154",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "East Redwood Avenue",
+    "amenity": "restaurant",
+    "building": "retail",
+    "cuisine": "chinese",
+    "name": "Lee's Chinese Restaurant",
+    "not:brand:wikidata": "Q6512810"
+   }
+  },
+  {
+   "id": "way/130504131",
+   "lat": 39.4419011,
+   "lon": -123.8057183,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Pacific Gas & Electric (PGE)",
+    "office": "company",
+    "roof:shape": "flat"
+   }
+  },
+  {
+   "id": "way/130504149",
+   "lat": 39.444469,
+   "lon": -123.8056667,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:country": "US",
+    "addr:housenumber": "300",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "brand": "True Value",
+    "brand:wikidata": "Q7847545",
+    "building": "retail",
+    "building:levels": "2",
+    "check_date": "2023-06-19",
+    "name": "Coast True Value Hardware",
+    "phone": "+1 707-964-2318",
+    "ref": "20658",
+    "shop": "hardware",
+    "website": "http://shopcoast2coasthardware.com"
+   }
+  },
+  {
+   "id": "way/130504153",
+   "lat": 39.4427075,
+   "lon": -123.8063313,
+   "inCity": true,
+   "tags": {
+    "brand": "Farmers Insurance",
+    "brand:wikidata": "Q1396863",
+    "building": "yes",
+    "name": "Farmers Insurance",
+    "office": "insurance"
+   }
+  },
+  {
+   "id": "way/130504157",
+   "lat": 39.4321836,
+   "lon": -123.8058411,
+   "inCity": true,
+   "tags": {
+    "amenity": "fuel",
+    "brand": "76",
+    "brand:wikidata": "Q1658320",
+    "building": "yes",
+    "name": "76",
+    "self_service": "yes"
+   }
+  },
+  {
+   "id": "way/130504163",
+   "lat": 39.4428278,
+   "lon": -123.8063316,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "161",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "building": "yes",
+    "name": "North Coast Plumbing, Heating and Sheet Metal",
+    "shop": "trade"
+   }
+  },
+  {
+   "id": "way/130504179",
+   "lat": 39.4454814,
+   "lon": -123.8068995,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "100",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "West Laurel Street",
+    "building": "yes",
+    "name": "Skunk Train",
+    "operator": "Mendocino Railway",
+    "phone": "+1 707-964-6371",
+    "tourism": "attraction",
+    "wikimedia_commons": "Category:Skunk Train"
+   }
+  },
+  {
+   "id": "way/130504180",
+   "lat": 39.4522331,
+   "lon": -123.8061969,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "901",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "amenity": "restaurant",
+    "brand": "Denny's",
+    "brand:wikidata": "Q1189695",
+    "building": "yes",
+    "cuisine": "american",
+    "name": "Denny's",
+    "opening_hours": "06:00-00:00",
+    "phone": "+1 707-964-8287",
+    "website": "https://locations.dennys.com/CA/FORT-BRAGG/246703"
+   }
+  },
+  {
+   "id": "way/130504183",
+   "lat": 39.4303809,
+   "lon": -123.8057981,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "name": "Super 8",
+    "shop": "convenience",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/130504208",
+   "lat": 39.4388477,
+   "lon": -123.8047689,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "name": "Carine's Motel",
+    "tourism": "motel"
+   }
+  },
+  {
+   "id": "way/130504211",
+   "lat": 39.4450622,
+   "lon": -123.8014208,
+   "inCity": true,
+   "tags": {
+    "leisure": "park",
+    "name": "Harold O. Bainbridge Park"
+   }
+  },
+  {
+   "id": "way/130504214",
+   "lat": 39.4509859,
+   "lon": -123.807645,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:country": "US",
+    "addr:housenumber": "835",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Stewart Street",
+    "brand": "Ace Hardware",
+    "brand:wikidata": "Q4672981",
+    "building": "retail",
+    "name": "Rossi Building Materials",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-17:00; Su 09:00-16:00",
+    "phone": "+1 707-964-4086",
+    "ref": "05780",
+    "shop": "doityourself",
+    "website": "http://www.rossi-ace.com/"
+   }
+  },
+  {
+   "id": "way/130504218",
+   "lat": 39.4432459,
+   "lon": -123.8063078,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "203",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "brand": "NAPA Auto Parts",
+    "brand:wikidata": "Q6970842",
+    "building": "yes",
+    "name": "NAPA Auto Parts",
+    "shop": "car_parts"
+   }
+  },
+  {
+   "id": "way/130504222",
+   "lat": 39.4410592,
+   "lon": -123.8064369,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "125",
+    "addr:postcode": "95437-4207",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "brand": "Ace Hardware",
+    "brand:wikidata": "Q4672981",
+    "building": "retail",
+    "name": "Mendo Mill",
+    "opening_hours": "Mo-Fr 07:30-17:30; Sa 08:00-17:00; Su 09:00-16:00",
+    "phone": "+1 707-964-0215",
+    "ref": "08393",
+    "shop": "doityourself"
+   }
+  },
+  {
+   "id": "way/130504224",
+   "lat": 39.4426706,
+   "lon": -123.8055068,
+   "inCity": true,
+   "tags": {
+    "amenity": "bank",
+    "atm": "yes",
+    "brand": "Chase",
+    "brand:wikidata": "Q524629",
+    "building": "yes",
+    "check_date": "2024-09-17",
+    "check_date:opening_hours": "2024-09-17",
+    "name": "Chase",
+    "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00; Su closed",
+    "phone": "+1 707-961-4444",
+    "website": "https://locator.chase.com/ca/fort-bragg/120-e-alder-st",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/130504242",
+   "lat": 39.431097,
+   "lon": -123.8051047,
+   "inCity": true,
+   "tags": {
+    "building": "hotel",
+    "fax": "+1-800-345-0022",
+    "internet_access": "wlan",
+    "name": "Seabird Lodge Fort Bragg Ca",
+    "phone": "+1-707-964-8000",
+    "tourism": "hotel",
+    "website": "http://www.seabirdlodge.com/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/130504244",
+   "lat": 39.4296858,
+   "lon": -123.8058877,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "898",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "alt_name": "Mountain Mike's Pizza",
+    "amenity": "restaurant",
+    "brand": "Mountain Mike's",
+    "brand:wikidata": "Q6925120",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:facebook": "https://www.facebook.com/Mountain-Mikes-Pizza-2166598096991721/",
+    "craft": "caterer",
+    "cuisine": "pizza",
+    "drink:beer": "yes",
+    "drink:wine": "yes",
+    "internet_access": "wlan",
+    "name": "Mountain Mike's",
+    "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+    "phone": "+1 707-964-9999",
+    "roof:levels": "0",
+    "takeaway": "yes",
+    "television": "yes",
+    "website": "https://www.mountainmikespizza.com/locations/fort-bragg/"
+   }
+  },
+  {
+   "id": "way/130504248",
+   "lat": 39.4464856,
+   "lon": -123.8062159,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "craft": "brewery",
+    "name": "North Coast Brewing Company",
+    "wikidata": "Q7054850"
+   }
+  },
+  {
+   "id": "way/130504257",
+   "lat": 39.4457673,
+   "lon": -123.8063011,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "fee": "no",
+    "name": "Depot Mall & Museum",
+    "tourism": "museum"
+   }
+  },
+  {
+   "id": "way/130504260",
+   "lat": 39.4409272,
+   "lon": -123.8048483,
+   "inCity": true,
+   "tags": {
+    "amenity": "cinema",
+    "building": "yes",
+    "name": "Coast Cinemas",
+    "wikidata": "Q44865011"
+   }
+  },
+  {
+   "id": "way/130504727",
+   "lat": 39.4414424,
+   "lon": -123.8061839,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "105",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "amenity": "fuel",
+    "atm": "no",
+    "brand": "Gulf",
+    "brand:wikidata": "Q5617505",
+    "building": "roof",
+    "fuel:diesel": "no",
+    "fuel:e85": "no",
+    "layer": "1",
+    "name": "Eel River Fuels, Inc.",
+    "phone": "+1 707-964-6137",
+    "self_service": "yes",
+    "toilets": "no",
+    "website": "https://www.gulfoil.com/one-stop-shop"
+   }
+  },
+  {
+   "id": "way/134249203",
+   "lat": 39.4451249,
+   "lon": -123.8064484,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "historic": "yes",
+    "name": "Guest House Museum",
+    "tourism": "museum"
+   }
+  },
+  {
+   "id": "way/134249206",
+   "lat": 39.4518896,
+   "lon": -123.8104551,
+   "inCity": true,
+   "tags": {
+    "amenity": "parking",
+    "comment": "opened in 2015, update poly when bing maps updated",
+    "name": "Noyo Headlands Park Glass Beach Parking"
+   }
+  },
+  {
+   "id": "way/272650126",
+   "lat": 39.4219227,
+   "lon": -123.8114959,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "1211",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Del Mar Drive",
+    "amenity": "college",
+    "name": "Mendocino College Coast Center",
+    "operator": "Mendocino College",
+    "website": "https://www.mendocino.edu/ftbragg"
+   }
+  },
+  {
+   "id": "way/341365943",
+   "lat": 39.4456874,
+   "lon": -123.8074071,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "West Redwood Avenue",
+    "building": "yes",
+    "name": "Tony Phillips Model Railroad Complex",
+    "operator": "Mendocino Coast Model Railroad & Historical Society",
+    "tourism": "museum",
+    "website": "https://www.mendorailhistory.org/"
+   }
+  },
+  {
+   "id": "way/375511344",
+   "lat": 39.422887,
+   "lon": -123.8068038,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "name": "Surf Motel & Gardens",
+    "phone": "+1-707-964-5361",
+    "reservation": "yes",
+    "tourism": "motel",
+    "website": "https://www.surfmotelfortbragg.com/"
+   }
+  },
+  {
+   "id": "way/407781761",
+   "lat": 39.4515908,
+   "lon": -123.8061704,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "863",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "amenity": "fuel",
+    "brand": "Sinclair",
+    "brand:wikidata": "Q1290900",
+    "name": "Sinclair",
+    "opening_hours": "06:00-00:00",
+    "phone": "+1 707-964-7364",
+    "self_service": "yes",
+    "website": "https://stations.sinclairoil.com/ca/fort-bragg/863-n-main-st"
+   }
+  },
+  {
+   "id": "way/439820578",
+   "lat": 39.4309849,
+   "lon": -123.8109434,
+   "inCity": true,
+   "tags": {
+    "amenity": "grave_yard",
+    "name": "Frontier Cemetary"
+   }
+  },
+  {
+   "id": "way/577732911",
+   "lat": 39.43171,
+   "lon": -123.8004983,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "700",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "River Drive",
+    "amenity": "hospital",
+    "beds": "25",
+    "emergency": "yes",
+    "gnis:feature_id": "1724112",
+    "healthcare": "hospital",
+    "name": "Mendocino Coast District Hospital",
+    "opening_hours": "24/7",
+    "operator": "Adventist Health",
+    "operator:type": "private",
+    "operator:wikidata": "Q4686452",
+    "phone": "+1 707 961 1234",
+    "short_name": "MCDH",
+    "website": "https://www.adventisthealth.org/mendocino-coast/",
+    "wikidata": "Q43895413"
+   }
+  },
+  {
+   "id": "way/655356173",
+   "lat": 39.4525216,
+   "lon": -123.8055318,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "940",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "amenity": "fast_food",
+    "building": "yes",
+    "changing_table": "no",
+    "cuisine": "burger;fries;milkshake",
+    "diet:vegetarian": "yes",
+    "height": "3",
+    "indoor_seating": "yes",
+    "name": "Jenny's Giant Burger",
+    "opening_hours": "Mo-Su 10:30-21:00",
+    "outdoor_seating": "pedestrian_zone",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-707-964-2235",
+    "toilets": "yes",
+    "toilets:wheelchair": "limited",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "id": "way/683261157",
+   "lat": 39.4446008,
+   "lon": -123.7942842,
+   "inCity": true,
+   "tags": {
+    "leisure": "park",
+    "name": "Otis R. Johnson Park",
+    "operator": "City of Fort Bragg"
+   }
+  },
+  {
+   "id": "way/683261811",
+   "lat": 39.4392703,
+   "lon": -123.794301,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "leisure": "fitness_centre",
+    "name": "C. V. Starr"
+   }
+  },
+  {
+   "id": "way/683261812",
+   "lat": 39.4384645,
+   "lon": -123.7941646,
+   "inCity": true,
+   "tags": {
+    "leisure": "track",
+    "name": "Green Memorial Track",
+    "sport": "running",
+    "surface": "dirt"
+   }
+  },
+  {
+   "id": "way/683264117",
+   "lat": 39.4395956,
+   "lon": -123.7945097,
+   "inCity": true,
+   "tags": {
+    "access": "yes",
+    "boules": "petanque",
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "C. V. Starr Petanque Court",
+    "sport": "boules",
+    "surface": "grass"
+   }
+  },
+  {
+   "id": "way/721488936",
+   "lat": 39.4381602,
+   "lon": -123.7868443,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "300",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Dana Street",
+    "amenity": "school",
+    "ele": "46",
+    "email": "arussell@fbusd.us",
+    "gnis:feature_id": "1724086",
+    "name": "Fort Bragg High School",
+    "name:etymology": "Fort Bragg",
+    "name:etymology:wikidata": "Q579180",
+    "operator": "Fort Bragg Unified School District",
+    "operator:type": "public",
+    "operator:wikidata": "Q56214481",
+    "phone": "+1-707-961-2880",
+    "religion": "none",
+    "website": "https://sites.google.com/fbusd.us/fbhs/home",
+    "wikidata": "Q5470845",
+    "wikipedia": "en:Fort Bragg High School"
+   }
+  },
+  {
+   "id": "way/721492364",
+   "lat": 39.437456,
+   "lon": -123.7858064,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "300",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Dana Street",
+    "leisure": "stadium",
+    "name": "Timberwolf Stadium",
+    "sport": "american_football;running",
+    "website": "https://timberwolfstadium.org/"
+   }
+  },
+  {
+   "id": "way/738705927",
+   "lat": 39.4267066,
+   "lon": -123.76945,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "19691",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Summers Lane",
+    "amenity": "animal_shelter",
+    "animal_shelter": "dog;cat",
+    "building": "no",
+    "name": "Mendocino Coast Humane Society"
+   }
+  },
+  {
+   "id": "way/777474029",
+   "lat": 39.4253069,
+   "lon": -123.816373,
+   "inCity": true,
+   "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "name": "Pomo Bluffs Park Parking",
+    "parking": "surface"
+   }
+  },
+  {
+   "id": "way/924805220",
+   "lat": 39.4400953,
+   "lon": -123.8053544,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "212",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "building": "yes",
+    "name": "Ocean Breeze Lodge",
+    "phone": "+1-707-961-1177",
+    "tourism": "motel",
+    "website": "http://www.oceanbreezelodge.com/"
+   }
+  },
+  {
+   "id": "way/935715039",
+   "lat": 39.4191261,
+   "lon": -123.8039337,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "250",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "West Highway 20",
+    "brand": "Holiday Inn Express",
+    "brand:wikidata": "Q5880423",
+    "name": "Holiday Inn Express Fort Bragg",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/1006264347",
+   "lat": 39.450066,
+   "lon": -123.8063205,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "763",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "brand": "Travelodge",
+    "brand:wikidata": "Q7836087",
+    "name": "Travelodge Fort Bragg",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/1006265845",
+   "lat": 39.4571101,
+   "lon": -123.8054048,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "1100",
+    "addr:postcode": "95437-8132",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "branch": "Vista Manor Lodge",
+    "brand": "Best Western",
+    "brand:wikidata": "Q830334",
+    "name": "Best Western",
+    "phone": "+1 707-964-4776",
+    "ref": "05201",
+    "tourism": "motel",
+    "website": "https://www.bestwestern.com/en_US/book/hotels-in-fort-bragg/best-western-vista-manor-lodge/propertyCode.05201.html"
+   }
+  },
+  {
+   "id": "way/1006279631",
+   "lat": 39.437719,
+   "lon": -123.8052803,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "400",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "brand": "Motel 6",
+    "brand:wikidata": "Q2188884",
+    "name": "Motel 6 Fort Bragg",
+    "reservation": "yes",
+    "tourism": "motel",
+    "website": "https://www.motel6.com/en/motels.ca.fort-bragg.4714.html"
+   }
+  },
+  {
+   "id": "way/1006280027",
+   "lat": 39.4290337,
+   "lon": -123.8070163,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "1005",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "check_date": "2025-12-31",
+    "internet_access": "wlan",
+    "name": "North Cliff Hotel",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/1031362770",
+   "lat": 39.4227043,
+   "lon": -123.8080554,
+   "inCity": true,
+   "tags": {
+    "leisure": "miniature_golf",
+    "name": "Emerald Dolphin Mini Golf",
+    "opening_hours": "PH,Su-Fr 12:00-20:00; Sa 12:00-21:00"
+   }
+  },
+  {
+   "id": "way/1109664287",
+   "lat": 39.4347253,
+   "lon": -123.8152879,
+   "inCity": true,
+   "tags": {
+    "access": "yes",
+    "amenity": "parking",
+    "fee": "no",
+    "historic": "runway",
+    "name": "Union Lumber Company Airfield",
+    "parking": "surface",
+    "surface": "paved"
+   }
+  },
+  {
+   "id": "way/1172329578",
+   "lat": 39.4239823,
+   "lon": -123.8069067,
+   "inCity": true,
+   "tags": {
+    "amenity": "fast_food",
+    "brand": "McDonald's",
+    "brand:wikidata": "Q38076",
+    "building": "yes",
+    "cuisine": "burger",
+    "drive_through": "yes",
+    "name": "McDonald's",
+    "takeaway": "yes",
+    "website": "https://www.mcdonalds.com/us/en-us/location/ca/ft-bragg/1190-s-main-st/18667.html",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/1172329580",
+   "lat": 39.4325144,
+   "lon": -123.805692,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "695",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "amenity": "fast_food",
+    "brand": "Taco Bell",
+    "brand:wikidata": "Q752941",
+    "building": "yes",
+    "cuisine": "tex-mex",
+    "drive_through": "yes",
+    "name": "Taco Bell",
+    "opening_hours": "07:00-24:00",
+    "phone": "+1 707-962-4244",
+    "takeaway": "yes",
+    "website": "https://locations.tacobell.com/ca/fort-bragg/695-s-main-st.html",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/1204349000",
+   "lat": 39.4393541,
+   "lon": -123.7985022,
+   "inCity": true,
+   "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "roman_catholic",
+    "name": "Our Lady of Good Counsel Catholic Church",
+    "religion": "christian",
+    "website": "http://www.olgcinfb.org/"
+   }
+  },
+  {
+   "id": "way/1206886092",
+   "lat": 39.424597,
+   "lon": -123.8028802,
+   "inCity": true,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "500",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Casa del Noyo Drive",
+    "building": "yes",
+    "name": "Noyo Harbor Inn",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/1229199282",
+   "lat": 39.4263535,
+   "lon": -123.8073558,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "1101",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "amenity": "restaurant",
+    "building": "yes",
+    "check_date": "2025-12-31",
+    "name": "Noyo River Grill",
+    "source": "microsoft/BuildingFootprints"
+   }
+  },
+  {
+   "id": "way/1229203190",
+   "lat": 39.4249227,
+   "lon": -123.807861,
+   "inCity": true,
+   "tags": {
+    "addr:housenumber": "1031",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "building": "yes",
+    "facebook": "https://www.facebook.com/barginmaxx/",
+    "name": "Fort Bragg Outlet",
+    "opening_hours": "Mo-Su 10:00-18:00",
+    "shop": "discount"
+   }
+  },
+  {
+   "id": "way/1229203191",
+   "lat": 39.4251843,
+   "lon": -123.8068871,
+   "inCity": true,
+   "tags": {
+    "amenity": "cafe",
+    "building": "yes",
+    "name": "Espresso Drive-Thru"
+   }
+  },
+  {
+   "id": "way/1276657249",
+   "lat": 39.422475,
+   "lon": -123.8083151,
+   "inCity": true,
+   "tags": {
+    "building": "yes",
+    "leisure": "amusement_arcade",
+    "name": "Emerald Dolphin Clubhouse"
+   }
+  },
+  {
+   "id": "way/1276657250",
+   "lat": 39.4230339,
+   "lon": -123.8082983,
+   "inCity": true,
+   "tags": {
+    "name": "Emerald Dolphin Inn & Mini Golf",
+    "tourism": "hotel"
+   }
+  },
+  {
+   "id": "way/1282082605",
+   "lat": 39.447189,
+   "lon": -123.7968447,
+   "inCity": true,
+   "tags": {
+    "amenity": "school",
+    "ele": "37",
+    "gnis:feature_id": "1724084",
+    "name": "Fort Bragg Middle School",
+    "name:etymology": "Fort Bragg",
+    "name:etymology:wikidata": "Q579180",
+    "operator": "Fort Bragg Unified School District",
+    "operator:type": "public",
+    "operator:wikidata": "Q56214481"
+   }
+  },
+  {
+   "id": "way/1370126805",
+   "lat": 39.4382071,
+   "lon": -123.7898045,
+   "inCity": true,
+   "tags": {
+    "amenity": "school",
+    "ele": "44",
+    "gnis:feature_id": "222003",
+    "name": "Dana Gray Elementary School",
+    "operator": "Fort Bragg Unified School District",
+    "operator:type": "public",
+    "operator:wikidata": "Q56214481"
+   }
+  },
+  {
+   "id": "way/1370126943",
+   "lat": 39.4375774,
+   "lon": -123.794419,
+   "inCity": true,
+   "tags": {
+    "amenity": "school",
+    "ele": "39",
+    "gnis:feature_id": "223695",
+    "name": "Redwood Elementary School",
+    "operator": "Fort Bragg Unified School District",
+    "operator:type": "public",
+    "operator:wikidata": "Q56214481"
+   }
+  },
+  {
+   "id": "way/1515198021",
+   "lat": 39.437537,
+   "lon": -123.7870842,
+   "inCity": true,
+   "tags": {
+    "access": "private",
+    "amenity": "dressing_room",
+    "female": "yes",
+    "name": "Girls Locker Room"
+   }
+  },
+  {
+   "id": "way/1515198022",
+   "lat": 39.4378995,
+   "lon": -123.7870876,
+   "inCity": true,
+   "tags": {
+    "access": "private",
+    "amenity": "dressing_room",
+    "male": "yes",
+    "name": "Boys Locker Room"
+   }
+  },
+  {
+   "id": "way/1515198024",
+   "lat": 39.4377175,
+   "lon": -123.7869322,
+   "inCity": true,
+   "tags": {
+    "access": "private",
+    "building": "yes",
+    "leisure": "sports_hall",
+    "name": "Gym"
+   }
+  },
+  {
+   "id": "way/1515198025",
+   "lat": 39.4377175,
+   "lon": -123.7871507,
+   "inCity": true,
+   "tags": {
+    "access": "private",
+    "building": "yes",
+    "leisure": "sports_hall",
+    "name": "Mat Room"
+   }
+  },
+  {
+   "id": "way/1515198026",
+   "lat": 39.4377171,
+   "lon": -123.787298,
+   "inCity": true,
+   "tags": {
+    "access": "private",
+    "amenity": "canteen",
+    "building": "yes",
+    "drive_through": "no",
+    "fast_food": "cafeteria",
+    "name": "Student Union"
+   }
+  },
+  {
+   "id": "relation/13433280",
+   "lat": 39.5018286,
+   "lon": -123.7858743,
+   "inCity": true,
+   "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "MacKerricher State Park",
+    "operator": "California Department of Parks and Recreation",
+    "operator:type": "public",
+    "operator:wikidata": "Q2933976",
+    "operator:wikipedia": "en:California State Parks",
+    "ownership": "state",
+    "protection_title": "State Park",
+    "source": "https://www.parks.ca.gov/pages/436/files/MacKerricherSPFinalWebLayout073117.pdf",
+    "type": "boundary",
+    "website": "https://www.parks.ca.gov/?page_id=436",
+    "wikidata": "Q6721972",
+    "wikipedia": "en:MacKerricher State Park"
+   }
+  },
+  {
+   "id": "node/6039891885",
+   "lat": 39.4266189,
+   "lon": -123.8048418,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "32260",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Harbor Drive",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "brewery": "yes",
+    "check_date": "2024-12-01",
+    "cuisine": "seafood",
+    "delivery": "no",
+    "email": "thewharf@mcn.org",
+    "fax": "+1-707-964-0254",
+    "name": "Silver's at The Wharf",
+    "outdoor_seating": "yes",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-707-964-4283",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://www.wharf-restaurant.com/"
+   }
+  },
+  {
+   "id": "node/6917302174",
+   "lat": 39.4124543,
+   "lon": -123.7577413,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "30303",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Fort Bragg-Willits Road",
+    "amenity": "veterinary",
+    "name": "Covington Creek Veterinary Hospital"
+   }
+  },
+  {
+   "id": "way/31442770",
+   "lat": 39.4505989,
+   "lon": -123.7903735,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "31971",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Pudding Creek Road",
+    "building": "yes",
+    "building:levels": "1",
+    "historic": "building",
+    "name": "Pudding Creek School House",
+    "start_date": "1989-01-01"
+   }
+  },
+  {
+   "id": "way/130485659",
+   "lat": 39.40804,
+   "lon": -123.813925,
+   "inCity": false,
+   "tags": {
+    "access": "yes",
+    "addr:city": "Fort Bragg",
+    "addr:country": "US",
+    "addr:housenumber": "18220",
+    "addr:postcode": "95437-8773",
+    "addr:state": "CA",
+    "addr:street": "North Highway 1",
+    "charge": "24.00 USD",
+    "check_date": "2026-05-25",
+    "check_date:opening_hours": "2026-05-25",
+    "description": "Mendocino Coast Botanical Gardens contains manicured formal gardens, a dense coastal pine forest, fern-covered canyons, rhododendrons, dahlias, begonias, magnolias, conifers, heathers and more.",
+    "email": "info@gardenbythesea.org",
+    "fee": "yes",
+    "garden:type": "botanical",
+    "image": "https://static.wixstatic.com/media/cdb947_7a41f11961ce4a5c9c9304788ee3a925~mv2.jpg",
+    "leisure": "garden",
+    "name": "Mendocino Coast Botanical Gardens",
+    "natural": "shrubbery",
+    "note": "The Gardens is non-smoking, and dog-friendly (leash required). The Garden Store and Nursery are open daily. Rhody's Garden Café is open seasonally from April through October. There is never an admission charge to shop or dine.",
+    "opening_hours": "Mo-Su 09:00-17:00; Nov-Mar Mo-Su 09:00-16:00",
+    "operator": "Mendocino Coast Botanical Gardens",
+    "operator:type": "nonprofit",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "phone": "+1-707-964-4352",
+    "source:opening_hours": "website",
+    "start_date": "1966-05-06",
+    "website": "https://www.gardenbythesea.org/",
+    "wikidata": "Q6816681",
+    "wikimedia_commons": "Category:Mendocino Coast Botanical Gardens",
+    "wikipedia": "en:Mendocino Coast Botanical Gardens"
+   }
+  },
+  {
+   "id": "way/130504230",
+   "lat": 39.445341,
+   "lon": -123.8062035,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "363",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "building": "yes",
+    "disused:amenity": "townhall",
+    "disused:townhall:type": "town",
+    "name": "Town Hall"
+   }
+  },
+  {
+   "id": "way/130504284",
+   "lat": 39.4452797,
+   "lon": -123.8075621,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "100",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "West Laurel Street",
+    "aeroway": "hangar",
+    "alt_name": "Depot Building",
+    "building": "hangar",
+    "name": "Skunk Train Fort Bragg Depot",
+    "name:etymology": "Skunk Train;Fort Bragg",
+    "name:etymology:wikidata": "Q5021182;Q579180"
+   }
+  },
+  {
+   "id": "way/134249194",
+   "lat": 39.4233259,
+   "lon": -123.802492,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "19325",
+    "addr:postcode": "95473",
+    "addr:state": "CA",
+    "addr:street": "South Harbor Drive",
+    "building": "yes",
+    "description": "U.S. Coast Guard Station Noyo River is a surf rescue station conducting search and rescue, law enforcement, and environmental protection along 120 miles of rugged coastline from Punta Gorda to Gualala California and out to 50 miles.",
+    "military": "office",
+    "name": "U.S. Coast Guard Station",
+    "website": "https://www.pacificarea.uscg.mil/Our-Organization/District-11/District-Units/STA_NOYO_RVR/"
+   }
+  },
+  {
+   "id": "way/299440403",
+   "lat": 39.4292504,
+   "lon": -123.8069008,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "1005",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "South Main Street",
+    "building": "hotel",
+    "name": "North Cliff Hotel 1"
+   }
+  },
+  {
+   "id": "way/341369050",
+   "lat": 39.4091183,
+   "lon": -123.8095325,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18220",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "building": "retail",
+    "building:levels": "1",
+    "description": "Admissions & Gift Shop – The Mendocino Coast Botanical Gardens is open daily (closed Thanksgiving and Christmas Day). Plan for at least a 1.5-hour visit to see the 47-acre botanical garden.",
+    "name": "Botanical Gardens Entrance & Gift Shop",
+    "website": "https://www.gardenbythesea.org/visit/the-garden-store/"
+   }
+  },
+  {
+   "id": "way/341369051",
+   "lat": 39.4092746,
+   "lon": -123.8095767,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18220",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "amenity": "cafe",
+    "building": "yes",
+    "cuisine": "american;coffee_shop;ice_cream;dessert;salad;sandwich;soup",
+    "description": "Rhody's Garden Café is open daily during the spring and summer months. Lunch items are served from 11AM to 3PM. Snacks, drinks, desserts, and ice cream are available from 10AM to 4PM. No reservations or admission fee required to dine at the Café.",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Rhody's Garden Cafe",
+    "opening_hours": "Mo-Su 09:00-16:00",
+    "outdoor_seating": "yes",
+    "phone": "+1-707-964-4352 x104",
+    "website": "https://www.gardenbythesea.org/visit/cafe/"
+   }
+  },
+  {
+   "id": "way/655357288",
+   "lat": 39.4635445,
+   "lon": -123.804819,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "1200",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "description": "Maintanance Station",
+    "landuse": "commercial",
+    "name": "Caltrans"
+   }
+  },
+  {
+   "id": "way/660075775",
+   "lat": 39.4119715,
+   "lon": -123.8079839,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18475",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "air_conditioning": "no",
+    "branch": "Store #4373",
+    "brand": "Speedway",
+    "brand:wikidata": "Q103980347",
+    "building": "retail",
+    "building:levels": "1",
+    "contact:phone": "+1 707-964-7051",
+    "currency:USD": "yes",
+    "internet_access": "no",
+    "name": "Food Mart",
+    "opening_hours": "Mo-Su 05:00-23:00",
+    "operator": "Speedway Express",
+    "operator:wikidata": "Q103980347",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:notes": "yes",
+    "shop": "convenience",
+    "stroller": "no",
+    "toilets": "yes",
+    "toilets:access": "customers",
+    "toilets:unisex": "yes",
+    "toilets:wheelchair": "no",
+    "website": "https://www.speedway.com/locations/CA/Fort-Bragg/18475-N-HWY-I",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "id": "way/660075776",
+   "lat": 39.4120074,
+   "lon": -123.8081199,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18475",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "amenity": "fuel",
+    "branch": "Store #4373",
+    "brand": "Speedway Express",
+    "brand:wikidata": "Q103980347",
+    "building": "roof",
+    "building:levels": "1",
+    "contact:phone": "+1 707-964-7051",
+    "fuel:diesel": "yes",
+    "fuel:octane_87": "yes",
+    "fuel:octane_89": "yes",
+    "fuel:octane_91": "yes",
+    "internet_access": "no",
+    "name": "Speedway Express",
+    "not:brand:wikidata": "Q7575683",
+    "opening_hours": "Mo-Su 05:00-23:00",
+    "operator": "Speedway Express",
+    "operator:wikidata": "Q103980347",
+    "payment:cash": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "self_service": "yes",
+    "shop": "convenience"
+   }
+  },
+  {
+   "id": "way/660075785",
+   "lat": 39.4158829,
+   "lon": -123.8084897,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18770",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "amenity": "fuel",
+    "building": "roof",
+    "check_date": "2025-04-28",
+    "compressed_air": "yes",
+    "contact:phone": "+1-707-964-0977",
+    "fuel:diesel": "yes",
+    "fuel:octane_87": "yes",
+    "fuel:octane_89": "yes",
+    "fuel:octane_91": "yes",
+    "layer": "1",
+    "name": "Norcal Gasoline",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "self_service": "yes",
+    "toilets": "customers",
+    "water_point": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "id": "way/683259937",
+   "lat": 39.3998117,
+   "lon": -123.8088997,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:country": "US",
+    "addr:housenumber": "17555",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "East Kirtland Way",
+    "building": "commercial",
+    "description": "Cannabis Dispensary",
+    "name": "Sovereign",
+    "smoking": "outside",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "id": "way/719258869",
+   "lat": 39.4166427,
+   "lon": -123.8084272,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18800",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Highway 1",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Willits Power Equipment",
+    "smoking": "no"
+   }
+  },
+  {
+   "id": "way/721488935",
+   "lat": 39.4377185,
+   "lon": -123.7881692,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "300",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Dana Street",
+    "building": "school",
+    "building:levels": "1",
+    "name": "Administration Building",
+    "roof:colour": "white",
+    "smoking": "no"
+   }
+  },
+  {
+   "id": "way/860073002",
+   "lat": 39.4232706,
+   "lon": -123.8025201,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "19325",
+    "addr:postcode": "95473",
+    "addr:state": "CA",
+    "addr:street": "South Harbor Drive",
+    "description": "U.S. Coast Guard Station Noyo River is a surf rescue station conducting search and rescue, law enforcement, and environmental protection along 120 miles of rugged coastline from Punta Gorda to Gualala California and out to 50 miles.",
+    "landuse": "military",
+    "military_service": "coast_guard",
+    "name": "U.S. Coast Guard - Station Noyo River",
+    "operator": "United States Coast Guard",
+    "operator:wikidata": "Q11224",
+    "website": "https://www.pacificarea.uscg.mil/Our-Organization/District-11/District-Units/STA_NOYO_RVR/"
+   }
+  },
+  {
+   "id": "way/901650123",
+   "lat": 39.458597,
+   "lon": -123.8041228,
+   "inCity": false,
+   "tags": {
+    "addr:housenumber": "1184",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Main Street",
+    "landuse": "residential",
+    "name": "Ocean Lake Adult Mobile Home Park",
+    "residential": "trailer_park"
+   }
+  },
+  {
+   "id": "way/930146856",
+   "lat": 39.4265554,
+   "lon": -123.8047465,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "32260",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Harbor Drive",
+    "building": "yes",
+    "name": "Anchor Lodge Motel"
+   }
+  },
+  {
+   "id": "way/1006279298",
+   "lat": 39.4264762,
+   "lon": -123.8043545,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "32260",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Harbor Drive",
+    "name": "Anchor Lodge Motel",
+    "phone": "+1-707-813-2276",
+    "tourism": "hotel",
+    "website": "https://www.wharf-restaurant.com/home/lodge/"
+   }
+  },
+  {
+   "id": "way/1103704428",
+   "lat": 39.417262,
+   "lon": -123.8071364,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "32961",
+    "addr:postcode": "95437-8211",
+    "addr:state": "CA",
+    "addr:street": "Hare Creek Road",
+    "building": "shed",
+    "building:colour": "#fff4b5",
+    "building:levels": "1",
+    "building:material": "wood",
+    "building:prefabricated": "no",
+    "ele": "7",
+    "height": "2.1",
+    "lockable": "yes",
+    "name": "Outside Kitchen",
+    "operator": "Mello Family",
+    "operator:type": "private",
+    "roof:colour": "grey",
+    "roof:shape": "flat",
+    "smoking": "dedicated",
+    "source": "microsoft/BuildingFootprints",
+    "start_date": "1955",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "id": "way/1127976835",
+   "lat": 39.4177869,
+   "lon": -123.8083273,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18900",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "building": "detached",
+    "building:levels": "1.5",
+    "name": "Hare Creek Cottage",
+    "source": "microsoft/BuildingFootprints"
+   }
+  },
+  {
+   "id": "way/1127976840",
+   "lat": 39.4158607,
+   "lon": -123.8086861,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18770",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "building": "commercial",
+    "building:levels": "1",
+    "check_date": "2025-04-28",
+    "contact:phone": "+1-707-964-0977",
+    "name": "Norcal Gasoline",
+    "opening_hours": "24/7",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "convenience",
+    "smoking": "outside",
+    "source": "microsoft/BuildingFootprints"
+   }
+  },
+  {
+   "id": "way/1127976844",
+   "lat": 39.4170064,
+   "lon": -123.8078397,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18877",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Highway 1",
+    "building": "commercial",
+    "building:levels": "1",
+    "name": "Redwood Products",
+    "source": "microsoft/BuildingFootprints"
+   }
+  },
+  {
+   "id": "way/1305828116",
+   "lat": 39.4091457,
+   "lon": -123.810154,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18220",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "N Highway 1",
+    "description": "The Perennial Garden is bursting with blooms spring through autumn and is alive with bees, butterflies, and hummingbirds. Plants are displayed in dramatic sweeps, with striking color combinations and variations in form and texture, in addition to exciting",
+    "leisure": "park",
+    "name": "Perennial Garden",
+    "opening_hours": "Mo-Fr 09:00-17:00"
+   }
+  },
+  {
+   "id": "way/1305832459",
+   "lat": 39.4097557,
+   "lon": -123.8092602,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18220",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "building": "yes",
+    "building:levels": "1",
+    "description": "Administration Office at administration@gardenbythesea.org, 707-964-4352 ext 113 (available Monday through Friday, 8:30AM-5PM, closed on weekends and holidays).",
+    "layer": "-1",
+    "name": "Staff Offices – Mendocino Coast Botanical Gardens"
+   }
+  },
+  {
+   "id": "way/1305833062",
+   "lat": 39.4092646,
+   "lon": -123.8097499,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "18220",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "Shoreline Highway",
+    "building": "retail",
+    "building:levels": "1",
+    "description": "Open daily. This specialty retail plant nursery offers rhododendrons, heaths, heathers, conifers, and Mediterranean plants, a wide selection of plants that are drought-tolerant, deer resistant, and hummingbird-, bee-, and butterfly-friendly.",
+    "name": "Nursery at the Mendocino Coast Botanical Gardens",
+    "smoking": "no",
+    "website": "https://www.gardenbythesea.org/visit/retail-nursery/",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "id": "way/1379112691",
+   "lat": 39.4041286,
+   "lon": -123.8101937,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "17900",
+    "addr:postcode": "95437",
+    "addr:state": "California",
+    "addr:street": "CA-1",
+    "contact:phone": "+17079616196",
+    "contact:website": "http://www.woodsidervpark.net/",
+    "name": "Woodside RV Park & Campground",
+    "tourism": "caravan_site"
+   }
+  },
+  {
+   "id": "way/1492371732",
+   "lat": 39.4248873,
+   "lon": -123.8047088,
+   "inCity": false,
+   "tags": {
+    "addr:city": "Fort Bragg",
+    "addr:housenumber": "32390",
+    "addr:postcode": "95437",
+    "addr:state": "CA",
+    "addr:street": "North Harbor Drive",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "fish_and_chips",
+    "name": "Sea Pal Cove",
+    "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-22:00; Su 11:00-21:00",
+    "phone": "+1 707 964 1300",
+    "website": "https://www.seapalcove.com/"
+   }
+  }
+ ]
+}
