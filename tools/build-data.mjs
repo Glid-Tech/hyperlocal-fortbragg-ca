@@ -656,7 +656,7 @@ ${g.items.map(item).join('\n')}
 </ul>
 </section>`).join('\n')}
 <p class="muted">Every fact here comes from the business’s own website, OpenStreetMap or a public government record. Listing data is available under the Open Database License (ODbL) 1.0 and includes data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>.</p>
-<p class="muted">Copyright &copy; 2026 Glid&nbsp;Tech. All&nbsp;Rights&nbsp;Reserved.</p>
+<p class="muted">Copyright &copy; 2026 Glīd&nbsp;Technologies. All&nbsp;Rights&nbsp;Reserved.</p>
 </main>
 </body>
 </html>
