@@ -1,10 +1,31 @@
 {
+ "100 North Franklin Street|95437": {
+  "lat": 39.441762,
+  "lon": -123.804476,
+  "source": "census",
+  "matched": "100 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "100 Pudding Creek Road|95437": {
   "lat": 39.45548,
   "lon": -123.803878,
   "source": "nominatim",
   "matched": "Pudding Creek Road, Fort Bragg, Mendocino County, California, 95437, United States",
   "at": "2026-11-25"
+ },
+ "100 South Harold Street|95437": {
+  "lat": 39.441613,
+  "lon": -123.797964,
+  "source": "census",
+  "matched": "100 S HAROLD ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
+ "101 North Franklin Street|95437": {
+  "lat": 39.441762,
+  "lon": -123.804624,
+  "source": "census",
+  "matched": "101 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "1011 South Main Street|95437": {
   "lat": 39.428779,
@@ -110,6 +131,13 @@
   "source": "census",
   "matched": "1210 N MAIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "1211 Del Mar Drive|95437": {
+  "lat": 39.420302,
+  "lon": -123.809458,
+  "source": "census",
+  "matched": "1211 DEL MAR DR, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "123 East Laurel Street|": {
   "lat": 39.445541,
@@ -237,6 +265,13 @@
   "matched": "139 E LAUREL ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "141 North Main Street|95437": {
+  "lat": 39.442244,
+  "lon": -123.806077,
+  "source": "census",
+  "matched": "141 N MAIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "142 East Laurel Street|95437": {
   "lat": 39.445429,
   "lon": -123.805357,
@@ -258,6 +293,13 @@
   "matched": "153 N MAIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "153 West Spruce Street|95437": {
+  "lat": 39.450475,
+  "lon": -123.806187,
+  "source": "census",
+  "matched": "153 SPRUCE ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "155 Boatyard Drive|95437": {
   "lat": 39.422468,
   "lon": -123.805766,
@@ -278,6 +320,13 @@
   "source": "census",
   "matched": "160 E FIR ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "160 South Harold Street|95437": {
+  "lat": 39.440588,
+  "lon": -123.797953,
+  "source": "census",
+  "matched": "160 S HAROLD ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "167 Boatyard Drive|95437": {
   "lat": 39.422931,
@@ -321,6 +370,13 @@
   "matched": "17900 STATE RTE 1, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "17975 North Highway 1|95437": {
+  "lat": 39.404695,
+  "lon": -123.808778,
+  "source": "census",
+  "matched": "17975 STATE RTE 1, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "17999 Tregoning Lane|95437": {
   "lat": 39.405257,
   "lon": -123.807351,
@@ -334,6 +390,13 @@
   "source": "census",
   "matched": "181 BOAT YARD DR, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "18200 North Highway 1|95437": {
+  "lat": 39.408281,
+  "lon": -123.808702,
+  "source": "census",
+  "matched": "18200 STATE RTE 1, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "18220 North Highway 1|95437": {
   "lat": 39.40855,
@@ -475,6 +538,10 @@
   "matched": "208 S MAIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "209 Azalea Circle|95437": {
+  "miss": true,
+  "at": "2026-11-26"
+ },
  "220 East Redwood Avenue|95437": {
   "lat": 39.444163,
   "lon": -123.804369,
@@ -517,12 +584,26 @@
   "matched": "225 E REDWOOD AVE, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "22601 North Highway 1|95437": {
+  "lat": 39.469637,
+  "lon": -123.800489,
+  "source": "census",
+  "matched": "22601 STATE RTE 1, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "234 East Redwood Avenue|95437": {
   "lat": 39.444163,
   "lon": -123.804302,
   "source": "census",
   "matched": "234 E REDWOOD AVE, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "235 North Franklin Street|95437": {
+  "lat": 39.443421,
+  "lon": -123.804617,
+  "source": "census",
+  "matched": "235 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "242 South Franklin Street|95437": {
   "lat": 39.439887,
@@ -534,6 +615,13 @@
  "24201 California 1|95437": {
   "miss": true,
   "at": "2026-11-25"
+ },
+ "244 North Franklin Street|95437": {
+  "lat": 39.443537,
+  "lon": -123.804469,
+  "source": "census",
+  "matched": "244 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "250 North Main Street|95437": {
   "lat": 39.443612,
@@ -548,6 +636,13 @@
   "source": "census",
   "matched": "250 S MAIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "29700 Highway 20|95437": {
+  "lat": 39.410214,
+  "lon": -123.746892,
+  "source": "census",
+  "matched": "29700 STATE RTE 20, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "300 East Oak Street|95437": {
   "lat": 39.441632,
@@ -597,6 +692,13 @@
   "source": "census",
   "matched": "30303 STATE RTE 20, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "306 Redwood Avenue|95437": {
+  "lat": 39.444162,
+  "lon": -123.803183,
+  "source": "census",
+  "matched": "306 E REDWOOD AVE, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "30801 Highway 20|95437": {
   "lat": 39.414653,
@@ -682,6 +784,13 @@
   "matched": "32180 AIRPORT RD, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "32301 Pearl Drive|95437": {
+  "lat": 39.392281,
+  "lon": -123.805839,
+  "source": "nominatim",
+  "matched": "Pearl Drive, Mendocino County, California, 95420, United States",
+  "at": "2026-11-26"
+ },
  "32350 North Harbor Drive|": {
   "lat": 39.424734,
   "lon": -123.804133,
@@ -745,6 +854,20 @@
   "matched": "North Harbor Drive, Fort Bragg, Mendocino County, California, 95437, United States",
   "at": "2026-11-25"
  },
+ "325 East Redwood Avenue|95437": {
+  "lat": 39.444273,
+  "lon": -123.80285,
+  "source": "census",
+  "matched": "325 E REDWOOD AVE, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
+ "325A East Redwood Avenue|95437": {
+  "lat": 39.444273,
+  "lon": -123.80285,
+  "source": "census",
+  "matched": "325A E REDWOOD AVE, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "32670 Highway 20|95437": {
   "lat": 39.419235,
   "lon": -123.802136,
@@ -766,12 +889,33 @@
   "matched": "North Main Street, Fort Bragg, Mendocino County, California, 95437, United States",
   "at": "2026-11-25"
  },
+ "333 North Franklin Street|95437": {
+  "lat": 39.444655,
+  "lon": -123.804613,
+  "source": "census",
+  "matched": "333 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
+ "335 North Franklin Street|95437": {
+  "lat": 39.444679,
+  "lon": -123.804613,
+  "source": "census",
+  "matched": "335 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "345 Cypress Street|95437": {
   "lat": 39.432698,
   "lon": -123.802356,
   "source": "census",
   "matched": "345 CYPRESS ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "346 Cypress Street|95437": {
+  "lat": 39.432581,
+  "lon": -123.802306,
+  "source": "census",
+  "matched": "346 CYPRESS ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "347 Cypress Street|95437": {
   "lat": 39.432696,
@@ -857,6 +1001,27 @@
   "matched": "422 S FRANKLIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "425 North McPherson Street|95437": {
+  "lat": 39.445826,
+  "lon": -123.803334,
+  "source": "census",
+  "matched": "425 N MCPHERSON ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
+ "430 North Main Street|95437": {
+  "lat": 39.445896,
+  "lon": -123.805795,
+  "source": "census",
+  "matched": "430 N MAIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
+ "435 North Main Street|95437": {
+  "lat": 39.445943,
+  "lon": -123.806049,
+  "source": "census",
+  "matched": "435 N MAIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "438 South Franklin Street|95437": {
   "lat": 39.437417,
   "lon": -123.804506,
@@ -898,6 +1063,13 @@
   "source": "census",
   "matched": "450 N MCPHERSON ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "461 North Franklin Street|95437": {
+  "lat": 39.44625,
+  "lon": -123.804603,
+  "source": "census",
+  "matched": "461 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "474 South Franklin Street|95437": {
   "lat": 39.436804,
@@ -990,6 +1162,13 @@
   "matched": "510 CYPRESS ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "522 North Franklin Street|95437": {
+  "lat": 39.447071,
+  "lon": -123.80445,
+  "source": "census",
+  "matched": "522 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "524 Stewart Street|95437": {
   "lat": 39.44709,
   "lon": -123.807202,
@@ -1011,12 +1190,33 @@
   "matched": "534 E OAK ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
  },
+ "535 East Chestnut Street|95437": {
+  "lat": 39.436361,
+  "lon": -123.799582,
+  "source": "census",
+  "matched": "535 E CHESTNUT ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
+ "541 South Franklin Street|95437": {
+  "lat": 39.435579,
+  "lon": -123.804687,
+  "source": "census",
+  "matched": "541 S FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
+ },
  "542 North Main Street|95437": {
   "lat": 39.447107,
   "lon": -123.805784,
   "source": "census",
   "matched": "542 N MAIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "550 South Franklin Street|95437": {
+  "lat": 39.435402,
+  "lon": -123.804541,
+  "source": "census",
+  "matched": "550 S FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "579 South Franklin Street|95437": {
   "lat": 39.434911,
@@ -1185,6 +1385,13 @@
   "source": "census",
   "matched": "888 S MAIN ST, FORT BRAGG, CA, 95437",
   "at": "2026-11-25"
+ },
+ "890 North Franklin Street|95437": {
+  "lat": 39.451631,
+  "lon": -123.804433,
+  "source": "census",
+  "matched": "890 N FRANKLIN ST, FORT BRAGG, CA, 95437",
+  "at": "2026-11-26"
  },
  "915 North Franklin Street|95437": {
   "lat": 39.452021,

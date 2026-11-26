@@ -4,7 +4,362 @@
   "patch": {
     "glass-beach-preschool-and-infant-care-center-930": {
       "name": "Glass Beach Preschool & Infant Care Center"
+    },
+    "kemppe-liquid-gas": {
+      "name": "Kemgas",
+      "sub": "Propane delivery & service",
+      "address": "1300 North Main Street",
+      "zip": "95437",
+      "website": "https://kemgas.com/",
+      "tags": [
+        "propane",
+        "propane delivery",
+        "propane tank",
+        "lpg",
+        "gas lines",
+        "tank monitoring",
+        "fuel delivery",
+        "emergency service",
+        "kemgas",
+        "kemppe"
+      ],
+      "sources": [
+        "https://kemgas.com/"
+      ]
+    },
+    "braggadoon-435": {
+      "hours": "Mo,We-Fr 10:00-17:00",
+      "sources": [
+        "https://www.braggadoon.com/contact"
+      ]
+    },
+    "fort-bragg-city-hall-416": {
+      "name": "Fort Bragg City Hall"
+    },
+    "fort-bragg-unified-school-district-312": {
+      "name": "Fort Bragg Unified School District"
     }
   },
-  "add": []
+  "add": [
+    {
+      "name": "Gateway Games",
+      "category": "shopping",
+      "sub": "Video game, trading card & repair shop",
+      "address": "303 North Main Street",
+      "unit": "Suite D",
+      "zip": "95437",
+      "phone": "(707) 925-4620",
+      "website": "https://www.gateway-games.com/",
+      "tags": [
+        "video games",
+        "retro games",
+        "game consoles",
+        "nintendo",
+        "playstation",
+        "xbox",
+        "trading cards",
+        "pokemon cards",
+        "magic the gathering",
+        "yu-gi-oh",
+        "lorcana",
+        "one piece cards",
+        "collectibles",
+        "plush",
+        "gaming computers",
+        "laptops",
+        "computer accessories",
+        "buy sell trade",
+        "trade-ins",
+        "console repair",
+        "electronics repair",
+        "device repair"
+      ],
+      "sources": [
+        "https://www.gateway-games.com/pages/store-locator-1",
+        "https://www.gateway-games.com/"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "id": "fort-bragg-food-bank",
+      "name": "Fort Bragg Food Bank",
+      "category": "community",
+      "sub": "Food bank & free grocery pantry",
+      "address": "910 North Franklin Street",
+      "zip": "95437",
+      "phone": "(707) 964-9404",
+      "website": "https://www.mendofood.org/fort-bragg-food-bank",
+      "hours": "Mo,Fr 10:00-16:00; Tu 10:00-12:00; We 10:00-17:30",
+      "tags": [
+        "food bank",
+        "food pantry",
+        "free groceries",
+        "food assistance",
+        "emergency food",
+        "nonprofit",
+        "hunger",
+        "farm stand",
+        "seniors",
+        "mendo food network"
+      ],
+      "sources": [
+        "https://www.mendofood.org/fort-bragg-food-bank"
+      ],
+      "verified": "2026-11-26",
+      "lat": 39.451954,
+      "lon": -123.80443
+    },
+    {
+      "id": "los-gallitos-223",
+      "name": "Restaurante Los Gallitos",
+      "category": "restaurants",
+      "sub": "Mexican & seafood restaurant",
+      "address": "223 North Franklin Street",
+      "zip": "95437",
+      "tags": [
+        "mexican",
+        "seafood",
+        "tacos",
+        "fish tacos",
+        "burritos",
+        "enchiladas",
+        "margaritas",
+        "beer",
+        "wine",
+        "downtown"
+      ],
+      "sources": [
+        "https://www.abc.ca.gov/licensing/license-lookup/single-license/?RPTTYPE=12&LICENSE=666247"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "id": "daurelios-438",
+      "name": "D'Aurelio's",
+      "category": "restaurants",
+      "sub": "Pizzeria",
+      "address": "438 South Franklin Street",
+      "zip": "95437",
+      "tags": [
+        "pizza",
+        "italian",
+        "pizzeria",
+        "calzones",
+        "salads",
+        "beer",
+        "wine",
+        "takeout"
+      ],
+      "sources": [
+        "https://www.abc.ca.gov/licensing/license-lookup/single-license/?RPTTYPE=12&LICENSE=577960",
+        "https://www.openstreetmap.org/node/14141370702"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "id": "mendocino-cookie-company-and-zappas-coffee",
+      "name": "Mendocino Cookie Company",
+      "category": "cafes-treats",
+      "sub": "Cookie bakery & coffee bar",
+      "address": "301 North Main Street",
+      "zip": "95437",
+      "phone": "(707) 964-0282",
+      "website": "https://www.mendocinocookies.com/",
+      "hours": "Mo-We 07:00-14:00; Th-Sa 07:00-17:00; Su 07:30-16:00",
+      "tags": [
+        "cookies",
+        "bakery",
+        "coffee",
+        "espresso",
+        "pastries",
+        "muffins",
+        "scones",
+        "cookie shipping",
+        "takeout",
+        "downtown"
+      ],
+      "sources": [
+        "https://www.mendocinocookies.com/"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "name": "NMA Designs",
+      "category": "shopping",
+      "sub": "Handmade gifts & home decor shop",
+      "address": "319 North Franklin Street",
+      "zip": "95437",
+      "website": "https://www.nma-designs.com/",
+      "tags": [
+        "handmade",
+        "gifts",
+        "gift shop",
+        "home decor",
+        "crafts",
+        "celebrations",
+        "personalized gifts",
+        "local artisan"
+      ],
+      "sources": [
+        "https://www.nma-designs.com/"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "id": "napa-auto-parts-203",
+      "name": "NAPA Auto Parts",
+      "category": "auto",
+      "sub": "Auto parts store",
+      "address": "203 North Main Street",
+      "zip": "95437",
+      "phone": "(707) 964-5607",
+      "website": "https://www.napaonline.com/en/ca/fort-bragg/store/21306",
+      "tags": [
+        "auto parts",
+        "car parts",
+        "batteries",
+        "brakes",
+        "motor oil",
+        "filters",
+        "napa",
+        "napa auto parts"
+      ],
+      "chain": true,
+      "sources": [
+        "https://www.napaonline.com/en/ca/fort-bragg/store/21306",
+        "https://www.openstreetmap.org/way/130504218"
+      ],
+      "verified": "2026-11-26",
+      "lat": 39.443246,
+      "lon": -123.806308
+    },
+    {
+      "name": "Mendo Lake Termite Control",
+      "category": "home",
+      "sub": "Termite & pest control",
+      "address": "247 North Main Street",
+      "unit": "Unit H",
+      "zip": "95437",
+      "phone": "(707) 946-7549",
+      "website": "https://www.mendolaketermitecontrol.com/",
+      "tags": [
+        "termite",
+        "termite inspection",
+        "pest control",
+        "exterminator",
+        "fumigation",
+        "wood destroying pests",
+        "dry rot",
+        "real estate inspection"
+      ],
+      "sources": [
+        "https://www.mendolaketermitecontrol.com/contact-us/"
+      ],
+      "verified": "2026-11-26",
+      "lat": 39.443565,
+      "lon": -123.806091
+    },
+    {
+      "id": "parents-and-friends-inc-306",
+      "name": "Parents & Friends",
+      "category": "community",
+      "sub": "Support services for people with developmental disabilities",
+      "address": "306 Redwood Avenue",
+      "zip": "95437",
+      "phone": "(707) 964-4940",
+      "website": "https://parentsandfriends.org/",
+      "hours": "Mo-Fr 08:00-16:00",
+      "tags": [
+        "developmental disabilities",
+        "disability services",
+        "nonprofit",
+        "supported living",
+        "independent living",
+        "job coaching",
+        "day program",
+        "person-centered support"
+      ],
+      "sources": [
+        "https://parentsandfriends.org/contact/"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "id": "paul-bunyan-thrift-store-350",
+      "name": "Paul Bunyan Thrift Store",
+      "category": "shopping",
+      "sub": "Charity thrift store",
+      "address": "350 South Main Street",
+      "zip": "95437",
+      "phone": "(707) 964-4471",
+      "website": "https://parentsandfriends.org/paulbunyanthriftstore/",
+      "hours": "Mo-Su 10:00-17:00",
+      "tags": [
+        "thrift store",
+        "thrift",
+        "second hand",
+        "used clothing",
+        "furniture",
+        "donations",
+        "nonprofit",
+        "bargains",
+        "resale",
+        "household goods"
+      ],
+      "sources": [
+        "https://parentsandfriends.org/paulbunyanthriftstore/",
+        "https://www.openstreetmap.org/node/3788732131"
+      ],
+      "verified": "2026-11-26",
+      "lat": 39.43829,
+      "lon": -123.805681
+    },
+    {
+      "id": "mendocino-county-office-of-education-425",
+      "name": "Mendocino County Office of Education",
+      "category": "kids",
+      "sub": "County office of education",
+      "address": "425 North McPherson Street",
+      "unit": "Unit C",
+      "zip": "95437",
+      "phone": "(707) 467-5060",
+      "website": "https://www.mcoe.us/",
+      "tags": [
+        "county office of education",
+        "mcoe",
+        "education",
+        "schools",
+        "teacher support",
+        "special education",
+        "student services",
+        "public agency"
+      ],
+      "sources": [
+        "https://www.mcoe.us/"
+      ],
+      "verified": "2026-11-26"
+    },
+    {
+      "id": "real-estate-magazine-160",
+      "name": "Real Estate Magazine",
+      "category": "professional",
+      "sub": "Real estate & lifestyle magazine publisher",
+      "address": "160 South Harold Street",
+      "zip": "95437",
+      "phone": "(707) 964-2522",
+      "website": "https://realestatemendocino.com/",
+      "tags": [
+        "magazine",
+        "real estate magazine",
+        "publisher",
+        "advertising",
+        "homes for sale",
+        "events calendar"
+      ],
+      "sources": [
+        "https://realestatemendocino.com/about-us/"
+      ],
+      "verified": "2026-11-26"
+    }
+  ]
 }
